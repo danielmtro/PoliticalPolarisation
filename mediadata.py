@@ -10,7 +10,7 @@ from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 
 
-def get_unique_headlines(media_org: str, date: datetime.date, folder: str = 'logs',):
+def get_unique_headlines(media_org: str, date: datetime.date, folder: str = 'data',):
     """Gets a set of unique headlines from a media organisation"""
     
     day = date.day
@@ -143,3 +143,4 @@ if __name__ == '__main__':
     ax.set_title('Different Media Organisations Polarisation')
     ax.set_facecolor("#ffffff")
     ax.grid(axis="y", which="major", color="#666666", linestyle='--', alpha=0.4)
+    plt.show()
