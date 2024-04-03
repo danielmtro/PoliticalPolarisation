@@ -124,6 +124,69 @@ def get_media_organisation_polarisation_df(media_org: str,
     return df
 
 
+def get_absolute_polarisation(media_org: str,
+                               date: datetime.date,
+                               positive_center,
+                               negative_center) -> float:
+    """Gets the cosine similarity between all biden articles and all trump articles for a given day."""
+    df = get_headline_df(media_org, date)
+    only_biden, only_trump, _, _ = get_biden_trump_dataframes(df)
+
+    # aggregate all the headlines into one string (each headline separated by a fullstop)
+    aggregated_biden = '. '.join(only_biden['Headline'])
+    aggregated_trump = '. '.join(only_trump['Headline'])
+    
+    # embed resultant headlines in the model
+    model = SentenceTransformer('all-MiniLM-L6-v2')
+    biden_encoded = embed_point(aggregated_biden, model)
+    trump_encoded = embed_point(aggregated_trump, model)
+    
+    # determine cosine similarity - 2D array output
+#     biden_positive_sentiment = cosine_similarity([biden_encoded], [positive_center])[0][0]
+#     biden_negative_sentiment = cosine_similarity([biden_encoded], [negative_center])[0][0]
+
+    
+#     trump_positive_sentiment = cosine_similarity([trump_encoded], [positive_center])[0][0]
+#     trump_negative_sentiment = cosine_similarity([trump_encoded], [negative_center])[0][0]
+
+    d2 = np.linalg.norm(biden_encoded - negative_center)
+    d1 = np.linalg.norm(biden_encoded - positive_center)
+    
+#     print(f"Distances for biden are {d2} {d1}", end = ' ')
+    net_biden = d2 - d1
+    
+    d2 = np.linalg.norm(trump_encoded - negative_center)
+    d1 = np.linalg.norm(trump_encoded - positive_center)
+    net_trump = d2 - d1
+#     print(f"Distances for Trump are {d2} {d1}")
+    
+    return net_biden, net_trump
+
+
+def get_absolute_over_time(media_org,
+                           start_date,
+                           end_date,
+                           positive_center,
+                           negative_center):
+    
+    biden_sentiments = []
+    trump_sentiments = []
+    dates = []
+    
+    current_date = start_date
+    while current_date < end_date:
+        try:
+            biden, trump = get_absolute_polarisation(media_org, current_date, positive_center, negative_center)
+            biden_sentiments.append(biden)
+            trump_sentiments.append(trump)
+            dates.append(current_date)
+        except KeyError:
+            pass
+        current_date += datetime.timedelta(1)
+    
+    return pd.DataFrame({f'{media_org}_Biden': biden_sentiments, f'{media_org}_Trump': trump_sentiments, 'Dates': dates})
+
+
 if __name__ == '__main__':
 
     # test the implementation with some sample dates
