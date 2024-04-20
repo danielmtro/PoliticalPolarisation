@@ -8,6 +8,7 @@ import datetime
 from typing import List, Tuple
 from sentence_transformers import SentenceTransformer 
 from sklearn.metrics.pairwise import cosine_similarity
+from nltk.corpus import stopwords
 
 
 def get_unique_headlines(media_org: str, date: datetime.date, folder: str = 'data',):
@@ -63,14 +64,15 @@ def embed_point(sentence: str, model=SentenceTransformer('all-MiniLM-L6-v2')) ->
 def get_biden_trump_dataframes(df: pd.DataFrame) -> Tuple[pd.DataFrame]:
     """Gets a dataframe where we have headlines that only mention biden, only trump, both and none"""
     headline = df.columns[0]
+    original_columns = df.columns
     
     df['contains_biden'] = df[headline].apply(lambda x: True if 'biden' in x.lower() else False)
     df['contains_trump'] = df[headline].apply(lambda x: True if 'trump' in x.lower() else False)
     df['contains_both'] = df.apply(lambda row: row['contains_biden'] and row['contains_trump'], axis=1)
 
     # separate into two unique dataframes that are only referencing biden and only referencing trump
-    only_biden = df[df['contains_biden'] & ~df['contains_both']][['Headline']]
-    only_trump = df[df['contains_trump'] & ~df['contains_both']][['Headline']]
+    only_biden = df[df['contains_biden'] & ~df['contains_both']][original_columns]
+    only_trump = df[df['contains_trump'] & ~df['contains_both']][original_columns]
     both = df[df['contains_both']]
     neither = df[~df['contains_both']]
     
@@ -186,6 +188,36 @@ def get_absolute_over_time(media_org,
     
     return pd.DataFrame({f'{media_org}_Biden': biden_sentiments, f'{media_org}_Trump': trump_sentiments, 'Dates': dates})
 
+
+
+def get_accumulated_headlines(start_date: datetime.date, end_date: datetime.date, media_orgs: List[str]):
+    """Gets a dataframe of headlines for multiple media organisations over multiple dates"""
+
+    headlines = []
+
+    for media_org in media_orgs:
+
+        current = start_date
+
+        while current < end_date:
+            try:
+                df = get_headline_df(media_org, current)
+                df['MediaOrg'] = [media_org]*len(df)
+                headlines.append(df)
+            except:
+                pass
+
+            current += datetime.timedelta(1)
+    return pd.concat(headlines)
+
+
+def remove_stopwords(df: pd.DataFrame, column = 'Headline') -> pd.DataFrame:
+    """Removes the stopwords from the Headline column of a dataframe"""
+    set_stopwords = set(stopwords.words('English'))
+    df_no_stopwords = df.copy()
+    df_no_stopwords[column] = df_no_stopwords[column].apply(lambda x: ' '.join([i for i in x.split() if i not in set_stopwords]))
+    return df_no_stopwords
+        
 
 if __name__ == '__main__':
 
