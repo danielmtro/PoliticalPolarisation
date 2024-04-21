@@ -44,8 +44,8 @@ def get_headlines(media_org: str, start_date: datetime.date, end_date: datetime.
 
     return df
 
-start_date = datetime.date(2024, 3, 14)
-end_date = datetime.date(2024, 3, 14)
+start_date = datetime.date(2024, 3, 17)
+end_date = datetime.date(2024, 3, 17)
 
 # Retrieve headlines data frames
 CNN_headlines_df = get_headlines('CNN', start_date, end_date)
@@ -58,7 +58,7 @@ NBC_headlines_df = get_headlines('NBC', start_date, end_date)
 combined_df = pd.concat([CNN_headlines_df, FOX_headlines_df, NBC_headlines_df])
 
 # Specify the absolute path to save the CSV file
-output_path = 'C:/Users/schma/Documents/GIT/PoliticalPolarisation/Combined_Headlines_14.csv'
+output_path = 'C:/Users/schma/Documents/GIT/PoliticalPolarisation/Combined_Headlines_17BAU.csv'
 combined_df.to_csv(output_path, encoding='utf-8', index=False)
 
 import pandas as pd
@@ -95,8 +95,8 @@ def csv_to_txt_with_split_lines(input_csv_path, output_txt_path):
                                 f.write(f"{media_org} - {category}: {line}\n")
 
 # Full paths to the input CSV file and the output text file
-input_csv_path = r'C:\Users\schma\Documents\GIT\PoliticalPolarisation\Combined_Headlines_14.csv'
-output_txt_path = r'C:\Users\schma\Documents\GIT\PoliticalPolarisation\Headlines_BAU_Output_14.txt'
+input_csv_path = r'C:\Users\schma\Documents\GIT\PoliticalPolarisation\Combined_Headlines_17BAU.csv'
+output_txt_path = r'C:\Users\schma\Documents\GIT\PoliticalPolarisation\Headlines_17BAU_Output.txt'
 
 # Run the function
 csv_to_txt_with_split_lines(input_csv_path, output_txt_path)

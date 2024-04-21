@@ -16,6 +16,8 @@ def get_daily_vader_scores(media_org: str, date: datetime.date) -> tuple:
     
     biden_average = np.sum(biden_scores) if biden_scores else None
     trump_average = np.sum(trump_scores) if trump_scores else None
+    print(biden_average)
+    print(trump_average)
     
     return biden_average, trump_average
 
@@ -58,12 +60,7 @@ def plot_vader_scores_over_time(media_org: str, start_date: datetime.date, end_d
     plt.grid(True)
     plt.show()
 
-if __name__ == '__main__':
-    start_date = datetime.date(2024, 3, 8)
-    end_date = datetime.date(2024, 3, 8)
-    plot_vader_scores_over_time('CNN', start_date, end_date, window_size=3)
-
-if __name__ == '__main__':
-    start_date = datetime.date(2024, 3, 8)
-    end_date = datetime.date(2024, 3, 8)
-    plot_vader_scores_over_time('FOX', start_date, end_date, window_size=3)
+start_date = datetime.date(2024, 3, 22)
+get_daily_vader_scores('NBC', start_date)
+get_daily_vader_scores('FOX', start_date)
+get_daily_vader_scores('CNN', start_date)
