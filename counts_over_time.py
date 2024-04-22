@@ -56,7 +56,7 @@ def get_raw_counts(media_org: str, start_date: datetime.date, end_date: datetime
     return df
 
 start_date = datetime.date(2024, 3, 4)
-end_date = datetime.date(2024, 3, 25)
+end_date = datetime.date(2024, 4, 18)
 
 index=["Biden", "Trump", "Biden and Trump"]
 CNN_df = get_raw_counts('CNN', start_date, end_date)

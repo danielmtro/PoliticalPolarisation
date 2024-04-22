@@ -13,13 +13,12 @@ def get_headlines(media_org: str, start_date: datetime.date, end_date: datetime.
     current_date = start_date
     biden_headlines = []
     trump_headlines = []
-    both_headlines = []
     days = []
 
     while current_date <= end_date:
         try: 
             df = get_headline_df(media_org, current_date)
-            only_biden, only_trump, both, _ = get_biden_trump_dataframes(df)
+            only_biden, only_trump, _ , _ = get_biden_trump_dataframes(df)
         except:
             # Move to the next day if there's an error (e.g., no data available for that day)
             current_date += datetime.timedelta(days=1)
@@ -28,7 +27,6 @@ def get_headlines(media_org: str, start_date: datetime.date, end_date: datetime.
         # Append headlines or a placeholder if none
         biden_headlines.append(list(only_biden['Headline']) if not only_biden.empty else ['No Biden headlines'])
         trump_headlines.append(list(only_trump['Headline']) if not only_trump.empty else ['No Trump headlines'])
-        both_headlines.append(list(both['Headline']) if not both.empty else ['No headlines for both'])
 
         days.append(current_date)
         current_date += datetime.timedelta(days=1)
@@ -39,26 +37,30 @@ def get_headlines(media_org: str, start_date: datetime.date, end_date: datetime.
         'Media Org': [media_org] * len(days),  # Add media organization identifier
         'Biden Headlines': biden_headlines,
         'Trump Headlines': trump_headlines,
-        'Both Headlines': both_headlines
     })
 
     return df
 
-start_date = datetime.date(2024, 3, 14)
-end_date = datetime.date(2024, 3, 14)
+start_date = datetime.date(2024, 4, 12)
+end_date = datetime.date(2024, 4, 12)
 
 # Retrieve headlines data frames
 CNN_headlines_df = get_headlines('CNN', start_date, end_date)
 FOX_headlines_df = get_headlines('FOX', start_date, end_date)
 NBC_headlines_df = get_headlines('NBC', start_date, end_date)
 
-
+start_date_str = start_date.strftime("%Y-%m-%d")
 
 # Combine data frames
 combined_df = pd.concat([CNN_headlines_df, FOX_headlines_df, NBC_headlines_df])
 
-# Specify the absolute path to save the CSV file
-output_path = 'C:/Users/schma/Documents/GIT/PoliticalPolarisation/Combined_Headlines_14.csv'
+
+output_path = f'C:/Users/schma/Documents/GIT/PoliticalPolarisation/Combined_Headlines_{start_date_str}_Output.csv'
+
+input_csv_path = f'C:/Users/schma/Documents/GIT/PoliticalPolarisation/Combined_Headlines_{start_date_str}_Output.csv'
+output_txt_path = f'C:/Users/schma/Documents/GIT/PoliticalPolarisation/headline_txts_by_day_and_org/Headlines_{start_date_str}_Output.txt'
+
+
 combined_df.to_csv(output_path, encoding='utf-8', index=False)
 
 import pandas as pd
@@ -94,9 +96,8 @@ def csv_to_txt_with_split_lines(input_csv_path, output_txt_path):
                                 # Write the media organization, category, and the headline to the file
                                 f.write(f"{media_org} - {category}: {line}\n")
 
-# Full paths to the input CSV file and the output text file
-input_csv_path = r'C:\Users\schma\Documents\GIT\PoliticalPolarisation\Combined_Headlines_14.csv'
-output_txt_path = r'C:\Users\schma\Documents\GIT\PoliticalPolarisation\Headlines_BAU_Output_14.txt'
 
 # Run the function
 csv_to_txt_with_split_lines(input_csv_path, output_txt_path)
+# Delete the CSV file after the text file is created
+os.remove(output_path)
