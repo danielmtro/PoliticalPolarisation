@@ -30,7 +30,7 @@ def get_tf_idf_df(documents, labels):
 
     vectoriser = TfidfVectorizer()
     vectors = vectoriser.fit_transform(documents)
-    feature_names = vectoriser.get_feature_names()
+    feature_names = vectoriser.get_feature_names_out()
     dense = vectors.todense()
     denselist = dense.tolist()
     tf_idf_df = pd.DataFrame(denselist, columns=feature_names)
