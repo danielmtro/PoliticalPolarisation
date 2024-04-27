@@ -1,0 +1,113 @@
+CNN - Biden: The former president keeps talking about Jan. 6 and his aides aren’t stopping him. Biden is pouncing on that.
+Biden: Positive (Biden is portrayed as taking advantage of a situation)
+Trump: Negative (portrayed as uncontrolled by aides)
+CNN - Trump: Trump suggests ‘it’s going to be a bloodbath’ if he loses election
+Trump: Negative (conveys a threatening and dire prediction)
+CNN - Trump: Georgia prosecutor in Trump election case resigns
+Trump: Neutral (the sentiment primarily relates to the prosecutor, not Trump directly)
+CNN - Trump: Trump warns of ‘bloodbath’ for auto industry and country if he loses the election
+Trump: Negative (uses fearmongering language)
+CNN - Trump: Trump visits Ohio ahead of competitive Senate primary with huge stakes for November
+Trump: Neutral (factual reporting of an event)
+CNN - Trump: Trump keeps talking about Jan. 6 and his aides aren’t really trying to stop him
+Trump: Negative (suggests lack of control and dissent within his team)
+CNN - Trump: Judge delays Trump hush money trial in New York
+Trump: Neutral (factual information about a legal procedure)
+CNN - Trump: ‘Everything he is saying isn’t true’: Congolese governments denounce Trump’s baseless stories about emptied prisons
+Trump: Negative (accusations of falsehoods)
+CNN - Trump: Live Updates: Congressional GOP eager to give Trump more January 6 fodder
+Trump: Neutral (primarily about GOP actions rather than Trump himself)
+CNN - Trump: Pence says he ‘cannot in good conscience’ endorse Trump
+Trump: Negative (indicates significant dissent within his own party)
+CNN - Trump: Trump heads to Ohio ahead of Senate primary with huge stakes for November
+Trump: Neutral (factual report of campaign activity)
+CNN - Trump: These former Trump officials say he shouldn’t be president again
+Trump: Neutral (statement from former officials)
+CNN - Trump: See Trump’s busy legal and election calendar in 1 chart
+Trump: Neutral (informational content)
+CNN - Trump: Live Updates: Trump-backed Senate candidate urges Ohioans to rid state of ‘RINO establishment’ by nominating him Tuesday
+Trump: Neutral (related to campaign rhetoric)
+CNN - Trump: Live Updates: Trump suggests ‘it’s going to be a bloodbath’ if he loses election
+Trump: Negative (predicts negative consequences)
+FOX - Biden: Joe Rogan goes after one of the biggest problems in the Biden admin, slams 'ridiculous' KJP
+Biden: Negative (criticism of Biden administration)
+FOX - Biden: Biden, trans activists seize on death of 'non-binary' Oklahoma teen
+Biden: Neutral (describes an event, sentiment not directly targeted at Biden)
+FOX - Biden: Florida 'assets in place' to rebuff potential Haitian surge, as DeSantis expects Biden won't act
+Biden: Negative (suggests inaction by Biden)
+FOX - Biden: Biden wants 50,000 new climate activists and the consequences will be devastating
+Biden: Negative (negative prediction related to Biden's policy)
+FOX - Biden: VP Harris urged to leave Biden ticket after ‘disappointing’ performance
+Biden: Negative (implies negative performance affecting the administration)
+FOX - Biden: Florida braces for potential Haitian surge, as DeSantis expects Biden won't act
+Biden: Negative (similar to #18, suggests inaction)
+FOX - Biden: Biden admin looks to crack down on fast food ice cream machines
+Biden: Neutral (policy-related, not clearly positive or negative)
+FOX - Biden: Swing state voter blames Biden for inflation, 'not buying' pandemic excuse in 2024: Prices 'still going up'
+Biden: Negative (blames Biden for economic issues)
+FOX - Biden: Biden, trans activists seize on death of 'non-binary' Oklahoma 16-year-old Nex Benedict
+Biden: Neutral (similar to #17)
+FOX - Trump: SEE IT: FDNY commissioner gets brutal reception at parade after Trump controversy
+Trump: Neutral (focused on the reaction to an associated figure)
+FOX - Trump: Republican Senate candidate sends message to members of his party who ‘don’t like’ Trump
+Trump: Neutral (focused on party dynamics)
+FOX - Trump: WATCH LIVE: Judge tells Willis to step aside or remove special prosecutor in Trump case
+Trump: Neutral (legal procedural content)
+FOX - Trump: If Trump wants to win, here’s what he needs to do
+Trump: Neutral (advisory content)
+FOX - Trump: SEAN HANNITY: Trump prosecutor Fani Willis threw 'lover' Nathan Wade 'under the bus'
+Trump: Neutral (focuses on actions of others in relation to Trump)
+FOX - Trump: SEE IT: Protesters jeer FDNY commissioner during St. Patrick’s Day parade after Trump controversy
+Trump: Neutral (similar to #25)
+FOX - Trump: SEE IT: Protesters jeer FDNY leader during St. Patrick’s Day parade after Trump controversy
+Trump: Neutral (focused on public reaction related to Trump)
+FOX - Trump: WATCH LIVE: Trump rallies supporters in Ohio after busy week of court rulings
+Trump: Neutral (descriptive of an event)
+FOX - Trump: NCAA's eye-opening confession, the issue that could cost Trump a 2024 win, and more from Fox News Opinion
+Trump: Neutral (opinion piece, potentially varied sentiments)
+FOX - Trump: Trump faces off against GOP establishment as he parachutes into contentious Republican Senate primary
+Trump: Neutral (describes political maneuvering)
+FOX - Trump: Rachel Stuhlmann Returns To Her Tennis Influencing Roots, Sammy Sosa Checks In & Trump Vs. Cart Girl
+Trump: Neutral (mixed content with trivial mention of Trump)
+FOX - Trump: Legal analyst warns Fani Willis' case against Trump is 'going nowhere'
+Trump: Neutral (focus on legal analysis)
+FOX - Trump: Rep. Nancy Mace spars with Bill Maher, explains her shift towards Trump
+Trump: Neutral (political discussion)
+FOX - Trump: Fani Willis’ ‘sordid scandal’ could make it hard to find a jury in the Trump case, experts say
+Trump: Neutral (legal challenges discussed)
+FOX - Trump: Experts say DA Fani Willis' 'illicit affair' with prosecutor could hamper her case against Trump
+Trump: Neutral (focus on prosecutorial issues)
+FOX - Trump: Ohio Republican US Senate candidate Bernie Moreno has special message for GOP members who 'don't like' Trump
+Trump: Neutral (internal party dynamics)
+FOX - Trump: WATCH LIVE: Trump holds rally in Ohio, police take suspected gunman into custody
+Trump: Neutral (event description)
+FOX - Trump: Jeffrey Toobin warns Fani Willis' case against Trump is 'going nowhere'
+Trump: Neutral (legal opinion)
+FOX - Trump: Trump takes on GOP establishment with major endorsement in Senate primary
+Trump: Neutral (political activity)
+FOX - Trump: Trump previews the ‘very first actions’ he would take in second term as president
+Trump: Neutral (campaign promises)
+NBC - Biden: White House weighs how to respond if Israel defies Biden with Rafah invasion
+Biden: Neutral (policy considerations, not a direct sentiment towards Biden)
+NBC - Biden: New Hampshire voters sue Biden deepfake robocall creators
+Biden: Neutral (involves Biden but sentiment is about an external action)
+NBC - Biden: Israel-Hamas war live updates: Netanyahu's planned offensive on Rafah ratchets up tensions with Biden
+Biden: Neutral (international relations tension)
+NBC - Biden: Netanyahu's planned offensive on Rafah ratchets up tensions with Biden
+Biden: Neutral (similar to #47, focusing on diplomatic tensions)
+NBC - Biden: Biden and Democratic Party organizations raised $53 million in February
+Biden: Positive (successful fundraising could be seen as a positive reflection)
+NBC - Trump: Trump adviser Peter Navarro asks Supreme Court to keep him out of prison
+Trump: Neutral (legal development involving an associate)
+NBC - Trump: Trump plays attack dog for Bernie Moreno as Ohio's GOP Senate primary ends on a vicious note
+Trump: Neutral (describes political strategy)
+NBC - Trump: Trump hush money trial postponed until mid-April, judge rules
+Trump: Neutral (legal procedural update)
+NBC - Trump: Trump says there will be a 'bloodbath' if he loses the election
+Trump: Negative (dire warning, negative implications)
+NBC - Trump: Fani Willis or special prosecutor must go for Trump GA case to go on, judge rules
+Trump: Neutral (court decision affecting legal case)
+NBC - Trump: What's next in Trump's Georgia election interference case after judge allows DA Fani Willis to stay on the case
+Trump: Neutral (future legal proceedings)
+NBC - Trump: Trump, immigration, MAGA and more: How Ohio Republicans are weighing their Senate choice
+Trump: Neutral (political analysis)
