@@ -158,3 +158,85 @@ FOX - Trump: AOC ripped after Bobulinski clash, remark about Trump's son trigger
 Trump: Neutral (focus on controversy involving opposition reactions to statements about Trump’s son)
 FOX - Trump: Ex-NBC exec sparks backlash for saying 18-year-old Barron Trump is now 'fair game'
 Trump: Negative (involves criticism and controversial comments about Trump’s son)
+NBC - Biden: Lev Parnas, ex-Giuliani associate, testified allegations against Bidens are false and 'spread by the Kremlin'
+Biden: Positive (Testimony is in favor of Biden, clearing allegations against him)
+NBC - Biden: Biden cancels nearly $6 billion in student debt for 78K public service workers
+Biden: Positive (Cancelling debt is generally viewed positively, especially for public service workers)
+NBC - Biden: Biden aims to win Wisconsin and Michigan by leaning heavily on more popular women
+Biden: Neutral (Strategy-oriented headline, no direct sentiment toward Biden's actions)
+NBC - Biden: United Steelworkers union endorses Biden, giving him more labor support in presidential race
+Biden: Positive (Endorsement from a major union suggests support and approval)
+NBC - Biden: Fireworks at House hearing in Biden impeachment inquiry
+Biden: Neutral (Depends on the context of 'fireworks' - could be dramatic but not directly negative or positive)
+NBC - Biden: Biden to tout government investing $8.5B in Intel's computer chip plants in four states
+Biden: Positive (Promoting investment in technology and jobs is seen positively)
+NBC - Biden: Kennedy family set to step up its efforts to help Biden's campaign
+Biden: Positive (Support from a prominent family suggests positive sentiment)
+NBC - Biden: Lev Parnas, ex-Giuliani associate, testifies allegations against Bidens are false and 'spread by the Kremlin'
+Biden: Positive (Reiteration of support and clearing of allegations)
+NBC - Biden: Who's behind the pro-Palestinian protests disrupting Biden events and blocking U.S streets?
+Biden: Neutral (More focused on the protests than directly on Biden, sentiment unclear)
+NBC - Trump: Longtime Trump employee: Mar-a-Lago culture would have led many to commit crimes
+Trump: Negative (Suggests a negative environment influenced by Trump)
+NBC - Trump: Trump vs. the GOP’s old guard — What to watch for in Ohio: From the Politics Desk
+Trump: Neutral (Analysis of political dynamics, not a direct sentiment about Trump)
+NBC - Trump: Trump suggests Prince Harry could be deported for past drug use
+Trump: Neutral (Focus on a statement about another person, not directly reflecting on Trump)
+NBC - Trump: Donald Trump has been all over the map on Social Security and Medicare
+Trump: Negative (Suggests inconsistency or unpredictability in policy positions)
+NBC - Trump: Selloffs, seized assets and bankruptcy: Trump options narrow as bond deadline approaches
+Trump: Negative (Highlights financial and legal challenges)
+NBC - Trump: Trump eyes Sen. Marco Rubio as a potential VP pick
+Trump: Neutral (Strategy-oriented, no direct sentiment)
+NBC - Trump: Trump-backed Bernie Moreno wins Ohio's Republican Senate primary
+Trump: Positive (Shows influence and success in political endorsements)
+NBC - Trump: Trump's coalition boosted Bernie Moreno in the Ohio GOP Senate race, NBC News exit polls show
+Trump: Positive (Further emphasis on Trump's effective political influence)
+NBC - Trump: Australia defends its U.S. ambassador, Kevin Rudd, after Trump attack
+Trump: Negative (Focus on conflict and criticism from Trump)
+NBC - Trump: 'Trying to nail Jell-O to a wall': On hot-button issues, Trump avoids straight answers
+Trump: Negative (Critique of Trump's evasiveness on important issues)
+NBC - Trump: Trump frustrated as bond deadline nears and key bacteria identified in colon cancer cases: Morning Rundown
+Trump: Negative (Focus on Trump's frustration, separate from the health news)
+
+NBC - Trump: Trump asks for election interference case immunity and Shohei Otani bomb threat: Morning Rundown
+Trump: Neutral (Mentions legal maneuvering, sentiment depends on the outcome or context of the immunity request)
+NBC - Trump: Donald Trump asks to pause Jan. 6 lawsuits as his criminal case lingers
+Trump: Neutral (Legal strategy, no direct sentiment, though context may imply desperation)
+NBC - Trump: Trump is having trouble getting cash for his bond. And he's growing frustrated.
+Trump: Negative (Highlights financial difficulties and negative emotional state)
+NBC - Trump: Georgia judge gives Trump permission to appeal order keeping DA Fani Willis on election interference case
+Trump: Neutral (Legal development, sentiment depends on the perception of the appeal)
+NBC - Trump: Trump has delayed his Jan. 6 criminal trial. Hundreds of his supporters haven't been so lucky.
+Trump: Negative (Implies privilege and disparity in legal treatment, negative for Trump)
+NBC - Trump: Leonard Leo, Koch networks pour millions into prep for potential second Trump administration
+Trump: Positive (Financial and political support for Trump, viewed positively by supporters)
+NBC - Trump: Trump signals support for a national 15-week abortion ban
+Trump: Neutral (Policy position that could be positive or negative depending on one's view on abortion)
+NBC - Trump: 'Trying to nail Jello to a wall': On hot-button issues, Trump avoids straight answers
+Trump: Negative (Reiteration of criticism on evasiveness)
+NBC - Trump: Trump asks Supreme Court for 'absolute immunity' in election interference case
+Trump: Neutral (Legal request, sentiment depends on one's view of his legal defense)
+NBC - Trump: From 'highly offensive' to 'he's not wrong,' GOP senators respond to Trump's remarks about Jewish voters
+Trump: Neutral (Mixed responses indicate varied sentiment)
+NBC - Trump: This state senator eviscerated Trump's voter fraud claims. Now, he's back on the Trump train.
+Trump: Neutral (Indicates conflict but eventual support, mixed sentiment)
+NBC - Biden: Lev Parnas, ex-Giuliani associate, testified allegations against Bidens are false and 'spread by the Kremlin'
+Biden: Positive (Reaffirmation of previous positive sentiment)
+NBC - Biden: Biden cancels nearly $6 billion in student debt for 78K public service workers
+Biden: Positive (Reaffirmation of previous positive sentiment)
+NBC - Biden: Biden aims to win Wisconsin and Michigan by leaning heavily on more popular women
+Biden: Neutral (Reaffirmation of previous neutral sentiment)
+NBC - Biden: United Steelworkers union endorses Biden, giving him more labor support in presidential race
+Biden: Positive (Reaffirmation of previous positive sentiment)
+NBC - Biden: Fireworks at House hearing in Biden impeachment inquiry
+Biden: Neutral (Reaffirmation of previous neutral sentiment)
+NBC - Biden: Biden to tout government investing $8.5B in Intel's computer chip plants in four states
+Biden: Positive (Reaffirmation of previous positive sentiment)
+NBC - Biden: Kennedy family set to step up its efforts to help Biden's campaign
+Biden: Positive (Reaffirmation of previous positive sentiment)
+NBC - Biden: Lev Parnas, ex-Giuliani associate, testifies allegations against Bidens are false and 'spread by the Kremlin'
+Biden: Positive (Reaffirmation of previous positive sentiment)
+NBC - Biden: Who's behind the pro-Palestinian protests disrupting Biden events and blocking U.S streets?
+Biden: Neutral (Reaffirmation of previous neutral sentiment)
+

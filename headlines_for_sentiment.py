@@ -41,8 +41,8 @@ def get_headlines(media_org: str, start_date: datetime.date, end_date: datetime.
 
     return df
 
-start_date = datetime.date(2024, 3, 21)
-end_date = datetime.date(2024, 3, 21)
+start_date = datetime.date(2024, 4, 10)
+end_date = datetime.date(2024, 4, 10)
 
 # Retrieve headlines data frames
 CNN_headlines_df = get_headlines('CNN', start_date, end_date)

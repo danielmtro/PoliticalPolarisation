@@ -70,7 +70,7 @@ for date, group in combined_df.groupby('Date'):
 summary_table = pd.concat(pivot_tables, ignore_index=True)
 
 # Save the pivot tables to a CSV file
-output_csv = 'summary_table.csv'
+output_csv = 'summary2_table.csv'
 summary_table.to_csv(output_csv, index=False)
 
 print("Summary tables saved to:", output_csv)
