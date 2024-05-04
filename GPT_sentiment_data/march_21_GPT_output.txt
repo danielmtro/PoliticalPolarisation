@@ -1,0 +1,242 @@
+CNN - Biden: What Biden needs to know about Gaza
+Biden: Neutral (informational context about a geopolitical issue, no sentiment toward Biden directly)
+CNN - Biden: Thousands shelter from Kyiv missile barrage, hours after Biden’s national security adviser visits
+Biden: Neutral (reports a situation in Kyiv, indirect association with Biden via timing of visit)
+CNN - Biden: First on CNN: Oversight Committee Democrats invite Giuliani associate Lev Parnas as witness for Biden impeachment hearing
+Biden: Negative (association with impeachment, potentially negative implications)
+CNN - Biden: Cyberattacks are hitting water systems throughout US, Biden officials warn governors
+Biden: Neutral (informative, about government response to a threat)
+CNN - Biden: Biden takes a political risk with his invitation to Israeli officials
+Biden: Neutral (describes a political action, sentiment depends on reader’s perspective on the risk)
+CNN - Trump: Trump wants January 6 civil lawsuits against him put on hold while he fights criminal charges
+Trump: Negative (related to legal troubles and potential criminal charges)
+CNN - Trump: Panic mode sets in for Trump as he faces deadline for massive bond
+Trump: Negative (suggests desperation and significant financial/legal pressure)
+CNN - Trump: Schumer slams Trump criticism of his Israel speech as ‘unadulterated antisemitism’
+Trump: Negative (accusations of antisemitism, critical sentiment)
+CNN - Trump: Michael Cohen on how former Trump aide’s life will change in prison
+Trump: Negative (association with criminal consequences for associates)
+CNN - Trump: NY attorney general says appeals court should disregard Trump’s claim it’s impossible to get a bond
+Trump: Negative (legal challenges and disputes over financial assertions)
+CNN - Trump: Melania Trump teases potential return to the campaign trail
+Trump: Neutral (potential political move, sentiment depends on reader’s view of Melania Trump)
+CNN - Trump: Melania Trump is asked if she’ll return to the campaign trail. Hear her reply
+Trump: Neutral (focus on potential actions, no inherent sentiment)
+CNN - Trump: Judge allows Trump and co-defendants to appeal order letting Fani Willis continue on 2020 election case
+Trump: Neutral (legal proceedings, sentiment depends on outcome perspective)
+CNN - Trump: Real estate CEO says Trump could sell Mar-a-Lago ‘quickly’ to secure $464 million bond
+Trump: Neutral to Negative (focus on financial strategy under pressure)
+CNN - Trump: Real estate CEO: Trump could sell Mar-a-Lago ‘quickly’ to secure bond
+Trump: Neutral to Negative (similar to above, focus on financial necessity)
+CNN - Trump: Hear how Melania Trump responds when reporter asks her about returning to campaign trail
+Trump: Neutral (personal decision-making, no direct sentiment)
+CNN - Trump: Trump says altered photo of Princess of Wales ‘shouldn’t be a big deal’
+Trump: Neutral to Negative (minimizing potential controversy)
+CNN - Trump: Trump’s dangerous $600 million problem
+Trump: Negative (emphasizes a significant and negative financial issue)
+CNN - Trump: Michael Cohen on how former Trump aide Peter Navarro’s life will change in prison
+Trump: Negative (criminal implications for associates)
+FOX - Biden: WATCH LIVE: Hunter Biden's ex-associates testify at House hearing on business dealings
+Biden: Negative (implications of wrongdoing in family business dealings)
+FOX - Biden: Biden censorship case has historic implications for free speech, state AG says
+Biden: Negative (association with censorship and legal controversy)
+FOX - Biden: Biden admin warns states of possible attacks on water systems from foreign hackers
+Biden: Neutral (informative, government response to security threats)
+FOX - Biden: Schumer taught Democrats and Biden a powerful lesson
+Biden: Neutral to Negative (implies learning from a mistake or oversight)
+FOX - Biden: GOP lawmaker rips Biden's DOJ after massive delay in addressing controversial policy
+Biden: Negative (criticism of administration's handling of policy)
+FOX - Biden: The top five moments from the fiery House hearing into Biden family's 'influence peddling'
+Biden: Negative (suggests unethical behavior and controversial family dealings)
+FOX - Biden: Biden finalizes crackdown on gas cars, forcing more than 50% of car sales to be electric
+Biden: Neutral to Positive (environmental policy, sentiment depends on environmental stance)
+FOX - Biden: The top five moments from the House hearing into Biden family's 'influence peddling'
+Biden: Negative (reiterates potential unethical behavior)
+FOX - Biden: Biden admin hired group who called for abolition of sex offense registry
+Biden: Negative (controversial hiring decision, potentially divisive)
+FOX - Biden: GOP senator rips Biden's 'gun-grabbing' DOJ for taking nearly 2 years to answer for controversial policy
+Biden: Negative (criticism of policy and administration's responsiveness)
+FOX - Biden: The top five moments from House hearing into Biden family's 'influence peddling'
+Biden: Negative (focus on alleged unethical behavior)
+FOX - Biden: Hunter's ex-associate expected to spill alleged secrets of Biden biz dealings
+Biden: Negative (suggests revelations of potentially unethical business dealings)
+FOX - Biden: WATCH LIVE: Abbott says TX will still make arrests at border while Biden challenge proceeds
+Biden: Negative (portrays opposition to Biden's policies at the border)
+FOX - Biden: WATCH LIVE: Will Cain talks to Pete Hegseth about Biden family's legal troubles
+Biden: Negative (focus on legal issues involving Biden's family)
+FOX - Biden: House Republicans accuse Biden of tax hikes on farmers, businesses in budget proposal
+Biden: Negative (accusations of harmful fiscal policies)
+FOX - Biden: Rural district Republicans slam Biden budget over ‘tax hikes’ on farms, businesses
+Biden: Negative (critical of tax policies perceived as detrimental to specific sectors)
+FOX - Biden: Hunter Biden's ex-associate accuses president's son, brother of serious crime
+Biden: Negative (accusations of criminal activity within Biden's family)
+FOX - Biden: Local fishermen sound alarm over Biden's 'incredibly irresponsible' wind farm plan
+Biden: Negative (criticism of environmental policy affecting local communities)
+FOX - Biden: How to square the circle in Biden's tale of two economies
+Biden: Neutral to Negative (suggests discrepancies or conflicts in economic policies)
+FOX - Biden: Arizona Hispanic voters not buying Biden-Harris' re-election pitch
+Biden: Negative (suggests lack of support among a key demographic)
+FOX - Biden: House panel weighs repeal of Biden's independent contractor rule
+Biden: Neutral to Negative (discussion of potential policy reversal)
+FOX - Biden: GOP lawmaker casts doubt on whether Republicans will impeach Biden
+Biden: Neutral (uncertainty over political action against Biden)
+FOX - Biden: Father of fallen Marine is a 'hero' for shouting at Biden, says fellow Gold Star dad
+Biden: Negative (focus on public criticism of Biden in a sensitive context)
+FOX - Biden: Senate Dems could spoil Biden's Muslim judicial nominee over ‘concerning’ ties
+Biden: Negative (potential conflict within party over a nominee)
+FOX - Biden: Biden admin hires accused 'sex offender lover' who calls to abolish sex offense registry
+Biden: Negative (controversial hiring decision, potentially damaging)
+FOX - Biden: Joe Biden Posts NCAA Tournament Brackets, Immediately Gets Roasted
+Biden: Negative (portrayal of negative reception to a non-political action)
+FOX - Biden: Biden looks for bogeymen to distract from Obama's opioid failures
+Biden: Negative (suggests deceitful behavior or misdirection)
+FOX - Biden: Biden upsets local community leaders after skipping trip to a Black church in Michigan
+Biden: Negative (depicts disappointment and missed opportunity in community engagement)
+FOX - Biden: GOP lawmaker fires off intense round of questions on Biden's involvement in son's biz deals
+Biden: Negative (focus on alleged improprieties in family business dealings)
+FOX - Biden: WATCH LIVE: House prepares for hearing on Biden family’s alleged ‘influence peddling’
+Biden: Negative (emphasis on potentially unethical influence)
+FOX - Biden: GOP state attorneys push back on Biden's proposed diversity rules for apprenticeship programs
+Biden: Negative (portrays opposition to diversity initiatives)
+FOX - Biden: AOC clashes with ex-Hunter Biden biz associate during heated exchange
+Biden: Neutral to Negative (focus on conflict, indirectly involving Biden)
+FOX - Biden: Senate Dems could block Biden's judicial nominee over ‘concerning’ ties
+Biden: Negative (potential intra-party conflict affecting a nominee)
+FOX - Biden: The dirty truth about Biden's electric future
+Biden: Negative (suggestive of hidden problems with Biden's energy policies)
+FOX - Biden: Ex-Hunter Biden associate singles out Dem who refused to look at evidence, scurried out of hearing
+Biden: Negative (portrays avoidance of accountability related to Biden)
+FOX - Biden: Fishermen rip Biden plans for 'incredibly irresponsible' wind farms in Gulf of Maine
+Biden: Negative (strong criticism of environmental policy impacts)
+FOX - Biden: AOC under fire after heated clash with Hunter Biden's former business associate
+Biden: Neutral to Negative (focuses on conflict involving an associate of Biden, indirect impact on Biden)
+FOX - Biden: Chuck Schumer taught Democrats and Biden a powerful lesson
+Biden: Neutral to Negative (implies a learning experience from mistakes, indirect sentiment about Biden)
+FOX - Biden: Biden finalizes crackdown on gas cars, forcing more than half of new car sales to be electric
+Biden: Neutral to Positive (reports a significant policy decision on environmental issues)
+FOX - Biden: Social media lashes out at AOC following clash with ex-Hunter Biden biz associate
+Biden: Neutral (focus on social media reaction, indirectly related to Biden through association)
+FOX - Biden: JESSE WATTERS: Everyone knows Biden is corrupt
+Biden: Negative (direct accusation of corruption)
+FOX - Biden: Biden finalizes crackdown on gas cars, forcing more than half of new car sales to be electric by 2030
+Biden: Neutral to Positive (reiteration of environmental policy, perceived positively or negatively based on viewpoint)
+FOX - Biden: DHS’ failure to file paperwork has led to 200K immigration court cases tossed under President Biden: TRAC
+Biden: Negative (highlights a failure in administration’s handling of immigration)
+FOX - Biden: Ireland's prime minister makes stunning announcement days after meeting with Biden
+Biden: Neutral (focus on another leader's announcement, indirect relation to Biden)
+FOX - Biden: Obama, Pelosi to rally for Biden on Obamacare anniversary
+Biden: Positive (supportive, depicting a rallying event for Biden by prominent figures)
+FOX - Biden: Father of fallen Marine is a 'hero' for shouting 'Remember Abbey Gate' at Biden, says fellow Gold Star dad
+Biden: Negative (focus on criticism of Biden in a very sensitive context)
+FOX - Biden: The dirty truth Americans must know about Biden's electric vehicle agenda
+Biden: Negative (suggestive of hidden negative aspects of Biden’s policies)
+FOX - Biden: Biden upsets local community leaders after skipping trip to a Black church in Michigan: 'Missed opportunity'
+Biden: Negative (depicts disappointment in Biden’s actions within a community)
+FOX - Biden: Texas can keep arresting illegal migrants while Biden challenge proceeds, Abbott says
+Biden: Neutral to Negative (focus on state response to federal policy, potentially negative towards Biden)
+FOX - Biden: Biden skips trip to a Black church upsetting local community leaders
+Biden: Negative (highlights community disappointment over Biden's missed visit)
+FOX - Biden: America poised to witness what could be major blow in exposing alleged Biden family 'scam' to get 'rich'
+Biden: Negative (suggests exposure of unethical behavior by Biden's family)
+FOX - Biden: House Republicans may invite Netanyahu to address Congress amid rift with Biden, Democrats
+Biden: Neutral to Negative (portrays a political maneuver possibly opposed to Biden)
+FOX - Biden: Hispanic voters deliver blow to 'Latinos con Biden-Harris' campaign: 'They're pandering to us'
+Biden: Negative (portrays lack of authenticity perceived by a key demographic)
+FOX - Biden: SEAN HANNITY: Biden's son continues to get paid for what he has no experience in
+Biden: Negative (accusation of nepotism and unqualified business dealings)
+FOX - Biden: Biden wanders from campaign event after he sees baby in the crowd that he 'couldn't resist'
+Biden: Neutral (personal anecdote, sentiment depends on perception of behavior)
+FOX - Trump: Former TV executive ignites firestorm after he suggests Barron Trump 'fair game'
+Trump: Negative (involves a controversial statement about Trump’s son)
+FOX - Trump: Melania joins Trump in Florida, tells reporters to 'stay tuned' for campaign future
+Trump: Neutral (involves Melania Trump hinting at future political plans)
+FOX - Trump: Bernie Moreno touts historically 'powerful' Trump endorsement after Ohio primary win, previews Day 1 agenda
+Trump: Positive (highlights strong endorsement and political success)
+FOX - Trump: Trump suggests he would support abortion ban at around 15 weeks of pregnancy
+Trump: Neutral to Negative (political stance on a divisive issue, sentiment varies by audience)
+FOX - Trump: AOC ripped after Bobulinski clash, remark about Trump's son triggers outrage and more top headlines
+Trump: Neutral (focus on controversy involving opposition reactions to statements about Trump’s son)
+FOX - Trump: Ex-NBC exec sparks backlash for saying 18-year-old Barron Trump is now 'fair game'
+Trump: Negative (involves criticism and controversial comments about Trump’s son)
+NBC - Biden: Lev Parnas, ex-Giuliani associate, testified allegations against Bidens are false and 'spread by the Kremlin'
+Biden: Positive (Testimony is in favor of Biden, clearing allegations against him)
+NBC - Biden: Biden cancels nearly $6 billion in student debt for 78K public service workers
+Biden: Positive (Cancelling debt is generally viewed positively, especially for public service workers)
+NBC - Biden: Biden aims to win Wisconsin and Michigan by leaning heavily on more popular women
+Biden: Neutral (Strategy-oriented headline, no direct sentiment toward Biden's actions)
+NBC - Biden: United Steelworkers union endorses Biden, giving him more labor support in presidential race
+Biden: Positive (Endorsement from a major union suggests support and approval)
+NBC - Biden: Fireworks at House hearing in Biden impeachment inquiry
+Biden: Neutral (Depends on the context of 'fireworks' - could be dramatic but not directly negative or positive)
+NBC - Biden: Biden to tout government investing $8.5B in Intel's computer chip plants in four states
+Biden: Positive (Promoting investment in technology and jobs is seen positively)
+NBC - Biden: Kennedy family set to step up its efforts to help Biden's campaign
+Biden: Positive (Support from a prominent family suggests positive sentiment)
+NBC - Biden: Lev Parnas, ex-Giuliani associate, testifies allegations against Bidens are false and 'spread by the Kremlin'
+Biden: Positive (Reiteration of support and clearing of allegations)
+NBC - Biden: Who's behind the pro-Palestinian protests disrupting Biden events and blocking U.S streets?
+Biden: Neutral (More focused on the protests than directly on Biden, sentiment unclear)
+NBC - Trump: Longtime Trump employee: Mar-a-Lago culture would have led many to commit crimes
+Trump: Negative (Suggests a negative environment influenced by Trump)
+NBC - Trump: Trump vs. the GOP’s old guard — What to watch for in Ohio: From the Politics Desk
+Trump: Neutral (Analysis of political dynamics, not a direct sentiment about Trump)
+NBC - Trump: Trump suggests Prince Harry could be deported for past drug use
+Trump: Neutral (Focus on a statement about another person, not directly reflecting on Trump)
+NBC - Trump: Donald Trump has been all over the map on Social Security and Medicare
+Trump: Negative (Suggests inconsistency or unpredictability in policy positions)
+NBC - Trump: Selloffs, seized assets and bankruptcy: Trump options narrow as bond deadline approaches
+Trump: Negative (Highlights financial and legal challenges)
+NBC - Trump: Trump eyes Sen. Marco Rubio as a potential VP pick
+Trump: Neutral (Strategy-oriented, no direct sentiment)
+NBC - Trump: Trump-backed Bernie Moreno wins Ohio's Republican Senate primary
+Trump: Positive (Shows influence and success in political endorsements)
+NBC - Trump: Trump's coalition boosted Bernie Moreno in the Ohio GOP Senate race, NBC News exit polls show
+Trump: Positive (Further emphasis on Trump's effective political influence)
+NBC - Trump: Australia defends its U.S. ambassador, Kevin Rudd, after Trump attack
+Trump: Negative (Focus on conflict and criticism from Trump)
+NBC - Trump: 'Trying to nail Jell-O to a wall': On hot-button issues, Trump avoids straight answers
+Trump: Negative (Critique of Trump's evasiveness on important issues)
+NBC - Trump: Trump frustrated as bond deadline nears and key bacteria identified in colon cancer cases: Morning Rundown
+Trump: Negative (Focus on Trump's frustration, separate from the health news)
+
+NBC - Trump: Trump asks for election interference case immunity and Shohei Otani bomb threat: Morning Rundown
+Trump: Neutral (Mentions legal maneuvering, sentiment depends on the outcome or context of the immunity request)
+NBC - Trump: Donald Trump asks to pause Jan. 6 lawsuits as his criminal case lingers
+Trump: Neutral (Legal strategy, no direct sentiment, though context may imply desperation)
+NBC - Trump: Trump is having trouble getting cash for his bond. And he's growing frustrated.
+Trump: Negative (Highlights financial difficulties and negative emotional state)
+NBC - Trump: Georgia judge gives Trump permission to appeal order keeping DA Fani Willis on election interference case
+Trump: Neutral (Legal development, sentiment depends on the perception of the appeal)
+NBC - Trump: Trump has delayed his Jan. 6 criminal trial. Hundreds of his supporters haven't been so lucky.
+Trump: Negative (Implies privilege and disparity in legal treatment, negative for Trump)
+NBC - Trump: Leonard Leo, Koch networks pour millions into prep for potential second Trump administration
+Trump: Positive (Financial and political support for Trump, viewed positively by supporters)
+NBC - Trump: Trump signals support for a national 15-week abortion ban
+Trump: Neutral (Policy position that could be positive or negative depending on one's view on abortion)
+NBC - Trump: 'Trying to nail Jello to a wall': On hot-button issues, Trump avoids straight answers
+Trump: Negative (Reiteration of criticism on evasiveness)
+NBC - Trump: Trump asks Supreme Court for 'absolute immunity' in election interference case
+Trump: Neutral (Legal request, sentiment depends on one's view of his legal defense)
+NBC - Trump: From 'highly offensive' to 'he's not wrong,' GOP senators respond to Trump's remarks about Jewish voters
+Trump: Neutral (Mixed responses indicate varied sentiment)
+NBC - Trump: This state senator eviscerated Trump's voter fraud claims. Now, he's back on the Trump train.
+Trump: Neutral (Indicates conflict but eventual support, mixed sentiment)
+NBC - Biden: Lev Parnas, ex-Giuliani associate, testified allegations against Bidens are false and 'spread by the Kremlin'
+Biden: Positive (Reaffirmation of previous positive sentiment)
+NBC - Biden: Biden cancels nearly $6 billion in student debt for 78K public service workers
+Biden: Positive (Reaffirmation of previous positive sentiment)
+NBC - Biden: Biden aims to win Wisconsin and Michigan by leaning heavily on more popular women
+Biden: Neutral (Reaffirmation of previous neutral sentiment)
+NBC - Biden: United Steelworkers union endorses Biden, giving him more labor support in presidential race
+Biden: Positive (Reaffirmation of previous positive sentiment)
+NBC - Biden: Fireworks at House hearing in Biden impeachment inquiry
+Biden: Neutral (Reaffirmation of previous neutral sentiment)
+NBC - Biden: Biden to tout government investing $8.5B in Intel's computer chip plants in four states
+Biden: Positive (Reaffirmation of previous positive sentiment)
+NBC - Biden: Kennedy family set to step up its efforts to help Biden's campaign
+Biden: Positive (Reaffirmation of previous positive sentiment)
+NBC - Biden: Lev Parnas, ex-Giuliani associate, testifies allegations against Bidens are false and 'spread by the Kremlin'
+Biden: Positive (Reaffirmation of previous positive sentiment)
+NBC - Biden: Who's behind the pro-Palestinian protests disrupting Biden events and blocking U.S streets?
+Biden: Neutral (Reaffirmation of previous neutral sentiment)
+

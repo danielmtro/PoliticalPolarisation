@@ -1,0 +1,206 @@
+CNN - Biden: Democratic senators have privately warned White House that votes aren’t there to confirm Biden’s Muslim judicial nominee
+Biden: Negative (suggests lack of support and potential failure in confirming a nominee)
+CNN - Trump: Takeaways from the scathing ruling that allows DA Fani Willis to remain on the Trump election subversion case
+Trump: Negative (scathing ruling implies negative legal implications)
+CNN - Trump: Judge delays Trump hush money trial in New York
+Trump: Neutral (factual reporting of a legal procedural delay)
+CNN - Trump: Legal expert says what Fulton County prosecutor’s resignation means for Trump’s case
+Trump: Neutral (analysis of the impact on the case, sentiment depends on context)
+CNN - Trump: These former Trump officials say he shouldn’t be president again
+Trump: Negative (explicit negative sentiment from former officials)
+CNN - Trump: Sprawling conspiracy case against Trump and his 2020 allies will now proceed
+Trump: Negative (the term "sprawling conspiracy" carries a negative connotation)
+CNN - Trump: After months marked by a flurry of court motions and hearings, the sprawling conspiracy case against Trump and his 2020 allies will now proceed
+Trump: Negative (similar to #6, emphasis on legal challenges)
+CNN - Trump: Judge rules Fani Willis can proceed with the Georgia election subversion case against Trump if the special prosecutor she hired and dated is removed
+Trump: Neutral (legal update with potential negative implications depending on the removal)
+CNN - Trump: Takeaways from the hearing on Trump’s attempt to dismiss the mishandling classified documents charges
+Trump: Neutral (summary of a legal proceeding, sentiment depends on the content of the takeaways)
+CNN - Trump: Georgia prosecutor in Trump election case resigns
+Trump: Neutral (factual reporting on a resignation)
+CNN - Trump: Why Toobin finds it ‘outrageous’ the Manhattan DA is willing to delay Trump hush money trial
+Trump: Neutral (commentary on legal proceedings)
+CNN - Trump: Trump’s praise of dictators tells us all we need to know
+Trump: Negative (critical implication of Trump's actions)
+CNN - Trump: Hear why Pence says he’s won’t endorse Donald Trump
+Trump: Negative (lack of endorsement is generally seen as negative)
+CNN - Trump: New RNC memo gives details of merger with Trump campaign
+Trump: Neutral (informational about political strategies)
+CNN - Trump: Breaking News: Judge delays Trump hush money trial in New York
+Trump: Neutral (update on legal proceedings)
+CNN - Trump: See Trump’s busy legal and election calendar in 1 chart
+Trump: Neutral (informational content)
+CNN - Trump: Opinion: Trump’s praise of dictators tells us all we need to know
+Trump: Negative (critical opinion piece)
+CNN - Trump: NY prosecutors tell judge they’re willing to delay Trump hush money trial until late April
+Trump: Neutral (legal procedural update)
+CNN - Trump: Pence says he ‘cannot in good conscience’ endorse Trump
+Trump: Negative (explicitly negative sentiment from a major political figure)
+FOX - Biden: House GOP leaders target Biden energy policies in legislation blitz next week
+Biden: Neutral (political maneuvering)
+FOX - Biden: Public fears crime surge as troops deployed on subway, Biden slammed for snubbing press and more top headlines
+Biden: Negative (Biden criticized for perceived neglect)
+FOX - Biden: Biden admin looks to crack down on fast food ice cream machines
+Biden: Neutral (policy-related, not clearly positive or negative)
+FOX - Biden: Joe Rogan goes after one of the biggest problems in the Biden admin, slams 'ridiculous' KJP
+Biden: Negative (explicit criticism of Biden administration)
+FOX - Biden: Biden admin funnels $1 billion for climate programs at borders amid ongoing migrant crisis
+Biden: Neutral (policy initiative, sentiment depends on reader's perspective)
+FOX - Biden: Joe Rogan goes after one of the biggest problems in Biden admin: ‘So ridiculous’
+Biden: Negative (criticism of the administration)
+FOX - Biden: Oversight Dems eye Michael Cohen as Biden impeachment inquiry hearing witness
+Biden: Neutral (information about procedural aspects)
+FOX - Biden: Hillary Clinton-produced election musical to be performed at Biden fundraiser
+Biden: Positive (positive event for fundraising)
+FOX - Biden: JESSE WATTERS: Fulton County DA Fani Willis' ruling wasn't so lucky for Biden
+Biden: Negative (implied negative impact from the ruling)
+FOX - Biden: White House repeatedly dodges question about how Biden views Netanyahu
+Biden: Neutral (focus on avoidance, not direct sentiment)
+FOX - Biden: Conservatives blast Biden after Haitian migrant accused of raping teenage girl
+Biden: Negative (criticism of Biden's policies or administration)
+FOX - Biden: Wisconsin voter 'not buying' Bidenomics anymore with prices 'still going up'
+Biden: Negative (criticism of Biden's economic policies)
+FOX - Biden: Biden admin looks to crack down on fast-food ice cream machines
+Biden: Neutral (policy action, sentiment depends on context)
+FOX - Biden: JESSE WATTERS: Fani Willis' ruling wasn't so lucky for Biden
+Biden: Negative (similar to #29)
+FOX - Biden: Comer tells Hunter Biden's attorney hearing will proceed 'with or without' him
+Biden: Neutral (related to legal proceedings, indirect impact on Biden)
+FOX - Biden: Swing state voter 'not buying' Bidenomics anymore with prices 'still going up'
+Biden: Negative (echoes #32, dissatisfaction with economic policies)
+FOX - Biden: Biden admin frees up billions of dollars in Iranian sanctions despite repeated pushback
+Biden: Neutral (policy decision, sentiment varies by perspective)
+FOX - Biden: Cookie Monster has a better grasp on the economy than Joe Biden
+Biden: Negative (humorous but critical of Biden's economic handling)
+FOX - Biden: Hillary Clinton and 'Hamilton' star to host Biden Broadway fundraiser
+Biden: Positive (positive event for fundraising)
+FOX - Biden: Hillary Clinton partners with 'Hamilton' star Lin-Manuel Miranda to host Broadway fundraiser for Biden
+Biden: Positive (reinforces #39)
+FOX - Biden: Biden hit with backlash for spending $1,000,000,000 to make border more eco-friendly
+Biden: Negative (backlash indicates criticism)
+FOX - Biden: WATCH: Biden’s team slammed for their reaction as boss begins to answer questions
+Biden: Negative (criticism of Biden's team handling)
+FOX - Biden: Netanyahu approves Rafah ground invasion, despite Biden opposition
+Biden: Negative (portrayed as being ignored or opposed)
+FOX - Biden: JESSIE WATTERS: Biden's luck has run out
+Biden: Negative (suggests adverse circumstances for Biden)
+FOX - Trump: Judge delays Trump’s hush money trial after last-minute evidence dump from feds
+Trump: Neutral (legal procedural update)
+FOX - Trump: Pence says his decision about whether to endorse Trump ‘should come as no surprise’
+Trump: Neutral (anticipation of a stance, but sentiment depends on the actual decision)
+FOX - Trump: DA Fani Willis will stay on Trump case, but Georgia’s lieutenant gov says she isn’t off the hook yet
+Trump: Neutral (continuation of legal scrutiny)
+FOX - Trump: Trump to show support for 'America First' candidate in contentious GOP primary
+Trump: Neutral (political campaign activity)
+FOX - Trump: Trump heading to Ohio in showdown with GOP establishment
+Trump: Neutral (describes a political event)
+FOX - Trump: NCAA's eye-opening confession, the issue that could cost Trump a 2024 win, and more from Fox News Opinion
+Trump: Neutral (opinion piece with potential implications)
+FOX - Trump: SEAN HANNITY: Trump prosecutor Fani Willis threw 'lover' Nathan Wade 'under the bus'
+Trump: Neutral (focus on prosecutor's actions)
+FOX - Trump: Judge blasts Fani Willis’ ‘improper’ church speech, gives her ultimatum in Trump case
+Trump: Neutral (judicial critique, but indirect sentiment towards Trump)
+FOX - Trump: Peter Navarro, former Trump WH adviser, files emergency request with SCOTUS
+Trump: Neutral (legal action involving a Trump associate)
+FOX - Trump: Illinois Republican congressional candidates fight for favor of Trump supporters
+Trump: Neutral (political dynamics)
+FOX - Trump: Fani Willis’ ‘sordid scandal’ could make it hard to find a jury in the Trump case, experts say
+Trump: Neutral (legal challenges discussed)
+FOX - Trump: Trump-backed GOP candidate rips 'sick' report tying him to gay hookup website: 'Desperate people'
+Trump: Neutral (defensive response from a candidate)
+FOX - Trump: DA Fani Willis will stay on Trump case, but Georgia’s lieutenant gov says she may not be off the hook yet (duplicate)
+Trump: Neutral (reiteration of #47)
+FOX - Trump: Judge rules Fani Willis must step aside from Trump case or fire Nathan Wade
+Trump: Neutral (legal decision impacting the case)
+FOX - Trump: Trump-backed GOP candidate rips 'sick' report tying him to gay hookup website (duplicate)
+Trump: Neutral (reiteration of #56)
+FOX - Trump: Charles Barkley blasted as ‘Maga’ in wake of Trump mugshot t-shirt controversy
+Trump: Neutral (focuses on a public reaction, not directly on Trump)
+FOX - Trump: Georgia lawmakers react to ruling allowing Fani Willis to stay on Trump case
+Trump: Neutral (reaction to a legal decision)
+FOX - Trump: Republicans who won states Trump lost navigate supporting their party and pleasing their constituents
+Trump: Neutral (political strategy and party dynamics)
+FOX - Trump: Trump lawyers prepare for evidence dump, could upend hush-money trial timeline
+Trump: Neutral (legal strategy and preparation)
+FOX - Trump: Trump lawyer reacts to judge’s Willis disqualification ruling: 'Prosecutorial misconduct'
+Trump: Neutral (legal opinion from Trump's team)
+FOX - Trump: Hungary PM Orbán blasts 'Western world,' calls for Trump victory
+Trump: Positive (endorsement from a foreign leader)
+FOX - Trump: WATCH LIVE: Judge tells Willis to step aside or remove special prosecutor in Trump case
+Trump: Neutral (judicial instruction in a legal case)
+FOX - Trump: Additional evidence disclosed forces delay in Trump’s hush money trial
+Trump: Neutral (legal procedural update)
+FOX - Trump: Georgia judge says DA Fani Willis can lead Trump case if special prosecutor Nathan Wade leaves
+Trump: Neutral (judicial ruling on legal staffing)
+FOX - Trump: Trump hush-money trial to seek 15,000 more pages of evidence amid push for delay
+Trump: Neutral (legal development)
+FOX - Trump: Judge rules Trump case cannot proceed with both DA Fani Willis and special prosecutor Nathan Wade
+Trump: Neutral (legal ruling on procedural conflict)
+FOX - Trump: WATCH LIVE: Trump in court for classified docs case, US sends Marines to Haiti
+Trump: Neutral (event reporting, broad coverage)
+FOX - Trump: Trump to show support for 'America First' senator in contentious GOP primary
+Trump: Neutral (political endorsement)
+FOX - Trump: Top prosecutor on Trump case is out after scathing ruling from judge over romance with DA Fani Willis
+Trump: Negative (implications of misconduct affecting the case)
+FOX - Trump: Peter Navarro, former Trump adviser, files emergency request with Supreme Court
+Trump: Neutral (legal action involving a Trump associate)
+FOX - Trump: Feds to hand over 15k pages in Trump hush-money trial
+Trump: Neutral (legal procedural update)
+FOX - Trump: Georgia's Judge McAfee says he will soon rule whether DA Fani Willis is disqualified in Trump case
+Trump: Neutral (judicial anticipation without direct sentiment)
+FOX - Trump: LAURA INGRAHAM: Ned Ryun says Trump needs to run like he is behind
+Trump: Neutral (political commentary)
+FOX - Trump: Prosecutor in Trump case is out after scathing ruling from judge over DA Fani Willis romance
+Trump: Negative (negative implications due to procedural controversy)
+FOX - Trump: Judge in Trump classified docs case issues ruling after lawyers argue for dismissal
+Trump: Neutral (legal decision)
+FOX - Trump: Judge delays Trump's hush-money trial amid last-minute evidence dump by feds
+Trump: Neutral (legal procedural update)
+FOX - Trump: Trump attorney reacts to Fulton County judge's Fani Willis decision: 'Prosecutorial misconduct'
+Trump: Neutral (legal reaction)
+FOX - Trump: Former Trump adviser, files emergency request with Supreme Court
+Trump: Neutral (legal action involving a Trump associate)
+NBC - Biden: White House weighs how to respond if Israel defies Biden with Rafah invasion
+Biden: Neutral (diplomatic considerations)
+NBC - Biden: New Hampshire voters sue Biden deepfake robocall creators
+Biden: Neutral (legal action indirectly involving Biden)
+NBC - Biden: Michigan Arab and Muslim leaders fuming after second Biden visit this year with no meeting
+Biden: Negative (dissatisfaction expressed by community leaders)
+NBC - Biden: Biden on Chuck Schumer's criticism of Netanyahu: 'He made a good speech'
+Biden: Neutral (comment on another politician's speech)
+NBC - Biden: Biden issues statement on death of LGBTQ teen Nex Benedict, drawing attention to suicide crisis
+Biden: Neutral (response to social issue)
+NBC - Biden: Israel-Hamas war live updates: Netanyahu's planned offensive on Rafah ratchets up tensions with Biden
+Biden: Neutral (update on international relations)
+NBC - Biden: Japanese giant defends U.S. Steel takeover after Biden comes out against the deal
+Biden: Neutral (corporate defense against Biden's stance)
+NBC - Trump: Trump hush money trial postponed until mid-April, judge rules
+Trump: Neutral (legal procedural delay)
+NBC - Trump: Special prosecutor resigns in Trump Georgia case, allowing DA Fani Willis to stay on
+Trump: Neutral (legal procedural update)
+NBC - Trump: What's next in Trump's Georgia election trial after DA Fani Willis is cleared to prosecute the case
+Trump: Neutral (future legal proceedings discussed)
+NBC - Trump: Pence says he won't endorse Trump's presidential bid
+Trump: Negative (lack of endorsement from a key political figure)
+NBC - Trump: Trump adviser Peter Navarro asks Supreme Court to keep him out of prison
+Trump: Neutral (legal request involving an associate)
+NBC - Trump: Trump prepares to run a courtroom campaign: From the Politics Desk
+Trump: Neutral (political strategy within a legal context)
+NBC - Trump: What's next in Trump's Georgia election interference case after judge allows DA Fani Willis to stay on the case
+Trump: Neutral (future legal proceedings discussed)
+NBC - Trump: Highlights from the Fani Willis ruling as the Judge allows Trump Georgia trial to proceed with condition
+Trump: Neutral (judicial ruling details)
+NBC - Trump: In shadow of Trump tweets, Supreme Court outlines when officials can be sued for social media use
+Trump: Neutral (judicial clarification on social media)
+NBC - Trump: Delays and counterattacks: How the Trump campaign plans to use his court dates for political gain
+Trump: Neutral (political strategy)
+NBC - Trump: Fulton County DA Fani Willis case against Trump can continue if she or special prosecutor Wade remove themselves, judge rules
+Trump: Neutral (legal ruling on procedural conflict)
+NBC - Trump: Fani Willis live updates: Nathan Wade resigns on Trump election case after judge's ruling
+Trump: Neutral (legal personnel update)
+NBC - Trump: Fani Willis or special prosecutor must go for Trump GA case to go on, judge rules
+Trump: Neutral (judicial decision)
+NBC - Trump: Fani Willis live updates: Nathan Wade resigns from Trump election case after judge's ruling
+Trump: Neutral (update on legal staff changes)
+NBC - Trump: Mike Pence says he won't endorse Trump's presidential bid
+Trump: Negative (reiteration of lack of endorsement, implying political distancing)

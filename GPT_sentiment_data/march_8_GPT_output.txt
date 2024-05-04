@@ -1,0 +1,374 @@
+CNN - Biden: Fictional presidents offer Biden advice for his big speech
+Biden: Neutral (creative concept, no direct sentiment toward Biden's actions)
+CNN - Biden: See Biden’s reaction to fictional presidents’ advice
+Biden: Neutral (focus on Biden's reaction, sentiment depends on the content of the reaction)
+CNN - Biden: Biden gave the speech of his life
+Biden: Positive (indicates a highly successful speech by Biden)
+CNN - Biden: Voters who flipped key state reveal how they feel about Biden now
+Biden: Neutral (sentiment depends on the voters’ opinions revealed in the content)
+CNN - Biden: Voters who flipped key county reveal how they feel about Biden now
+Biden: Neutral (similar to the previous, sentiment depends on the content)
+CNN - Biden: Katie Britt, youngest ever GOP woman elected to the US Senate, to deliver party’s response to Biden’s State of the Union
+Biden: Neutral (focuses on another person’s role relative to Biden’s speech)
+CNN - Biden: Biden will win Hawaii Democratic caucuses, CNN projects
+Biden: Positive (projection of a win is clearly positive for Biden)
+CNN - Biden: Marjorie Taylor Greene interrupts Biden, demanding he name Laken Riley
+Biden: Negative (interruption during a speech generally casts a negative sentiment)
+CNN - Biden: Fact checking Biden’s State of the Union
+Biden: Neutral (depends on the outcomes of the fact checks)
+CNN - Biden: Axelrod says this is what Biden needs to do during his State of the Union speech to appeal to voters
+Biden: Neutral (advice oriented, actual sentiment depends on the details of the advice)
+CNN - Biden: Biden kicks off speech with a stern message to Putin
+Biden: Positive (demonstrates strong leadership and a firm stance)
+CNN - Biden: Tracking State of the Union topics: See what Biden covered in his speech
+Biden: Neutral (informational, focusing on the topics covered)
+CNN - Biden: Alabama Sen. Katie Britt says ‘the American dream has turned into a nightmare’ in GOP rebuttal to Biden’s State of the Union
+Biden: Negative (expresses a negative sentiment toward Biden's impact)
+CNN - Biden: US will build a temporary pier to deliver aid to Gaza, Biden says
+Biden: Positive (presents Biden as taking constructive action)
+CNN - Biden: Democrats breathe some relief and say tonight proves Biden’s got ‘gas left in the tank’
+Biden: Positive (suggests Biden has shown resilience and capability)
+CNN - Biden: GOP senator says ‘that’s true’ in agreement with Biden on border deal
+Biden: Positive (shows bipartisan agreement, positive for Biden)
+CNN - Biden: What to watch in Biden’s 2024 State of the Union address
+Biden: Neutral (pre-event analysis, sentiment depends on the viewer’s perspective)
+CNN - Biden: Americans’ discontent has been weighing Biden down in the polls. He’ll use this address to try to sway his critics.
+Biden: Neutral (acknowledges challenges but also a proactive approach)
+CNN - Biden: Hear Biden’s message on Gaza to Israeli government
+Biden: Neutral (depends on the content of the message)
+CNN - Biden: Why Biden’s guest list is key for his State of the Union speech
+Biden: Neutral (strategic element of speech planning, sentiment depends on interpretation)
+CNN - Biden: Biden’s allies beg him to fight harder. State of the Union is his chance
+Biden: Neutral (suggests pressure for performance, outcome depends on the speech)
+CNN - Biden: A Black man’s view on what Biden should do for the White working class
+Biden: Neutral (focus on recommendations, sentiment depends on the content)
+CNN - Biden: In his State of the Union speech, US President Biden is going where he long resisted
+Biden: Neutral (suggests a significant strategic decision, sentiment depends on perspective)
+CNN - Biden: Axelrod on what Biden needs to do during SOTU to appeal to voters
+Biden: Neutral (repeated focus on strategic advice)
+CNN - Biden: Biden projects a vision of strength that’s been missing from his presidency but will be needed in 2024 campaign
+Biden: Positive (suggests a strong presentation by Biden)
+CNN - Biden: Jill Biden’s State of the Union guest list offers a blueprint for president’s address
+Biden: Neutral (focus on planning and thematic elements)
+CNN - Biden: Democrats say tonight proves Biden’s got ‘gas left in the tank’
+Biden: Positive (reaffirms Biden's vitality and effectiveness)
+CNN - Trump: Trump claims 325,000 migrants ‘were flown in from parts unknown’
+Trump: Neutral (statement of a claim, sentiment depends on the political perspective)
+CNN - Trump: Haberman: This is what worries Trump’s camp today
+Trump: Neutral (focuses on concerns within Trump's camp, actual sentiment depends on details)
+CNN - Trump: Fact Check: Trump claims 325,000 migrants ‘were flown in from parts unknown’
+Trump: Neutral (fact-checking claim, sentiment depends on the outcome of the fact-check)
+CNN - Trump: Trump attorneys accuse Manhattan DA of waging a ‘fantasy’ case against Trump
+Trump: Negative (depicts Trump's defense as challenging the legitimacy of the case against him)
+CNN - Trump: The president will take a swipe at Trump, vow to restore Roe and acknowledge his age, excerpts from his State of the Union show
+Trump: Negative (mentions Biden taking a swipe at Trump, which suggests criticism)
+CNN - Trump: Donald Trump has to raise a half billion dollars in a hurry
+Trump: Neutral (states a fact about Trump’s fundraising needs, sentiment depends on context)
+CNN - Trump: Rihanna, Mark Zuckerberg and Ivanka Trump among bevy of stars at Indian billionaire heir’s pre-wedding bash
+Trump: Neutral (focuses on a social event, neutral towards Trump’s political image)
+CNN - Trump: The president’s forceful speech was often ad-libbed and he repeatedly attacked Trump. Here’s what happened.
+Trump: Negative (notes Biden's attacks on Trump, implying a negative portrayal)
+CNN - Trump: Supreme Court sets argument date in Trump immunity case for April 25
+Trump: Neutral (legal procedural update, neutral in sentiment)
+CNN - Trump: Judge in Trump’s NY criminal case will limit access to juror information over safety concerns
+Trump: Neutral (focuses on courtroom procedures, neutral towards Trump’s case)
+CNN - Trump: Trump allies visit Israel as former president offers few details on how he’d approach Gaza conflict
+Trump: Neutral (reports on Trump allies’ actions without a clear positive or negative sentiment)
+CNN - Trump: US special counsel asks judge to label Trump’s immunity claim in classified documents as ‘frivolous’
+Trump: Negative (suggests Trump’s legal argument is not being taken seriously)
+CNN - Trump: Why Donald Trump’s Super Tuesday win is a defeat for Rupert Murdoch
+Trump: Neutral (analyzes political dynamics, sentiment depends on context)
+FOX - Biden: Alabama Sen. Britt shreds Biden on ‘despicable’ border crisis in Republican rebuttal
+Biden: Negative (strong criticism of Biden’s policies)
+FOX - Biden: Biden plans to use State of the Union to stress ‘historic achievements’ of his admin
+Biden: Positive (highlights Biden’s intention to showcase his administration's successes)
+FOX - Biden: George Santos back on Capitol Hill for Biden State of the Union
+Biden: Neutral (mentions a controversial figure’s presence at a Biden event, neutral towards Biden)
+FOX - Biden: Forget gas stoves. The big polluter is in Biden’s backyard
+Biden: Negative (criticizes environmental issues associated with Biden)
+FOX - Biden: Veteran anchor dismisses own network's polling, makes bold claim about Biden
+Biden: Neutral (focuses on a media figure’s opinion, sentiment towards Biden depends on the claim)
+FOX - Biden: Democrats urge Biden to see 'warning sign' after voters abandon him: 'Not something that should be ignored'
+Biden: Negative (highlights concerns within Biden's own party)
+FOX - Biden: Biden immigration situation grows even more frustrating with secret flights: Tomi Lahren
+Biden: Negative (criticizes Biden’s handling of immigration)
+FOX - Biden: Biden to have US military build a port in Gaza
+Biden: Positive (depicts Biden taking a proactive measure in foreign policy)
+FOX - Biden: Biden will direct US military to build Gaza port to increase flow of aid
+Biden: Positive (similar to the previous, highlights a positive action)
+FOX - Biden: GOP lawmakers say SOTU confirmed worries about Biden's mental acuity
+Biden: Negative (questions Biden’s fitness for office)
+FOX - Biden: Biden gave 'speech of his life' at SOTU. Here are 3 things he did right and 3 things he got wrong
+Biden: Neutral (balanced review of Biden’s speech)
+FOX - Biden: Biden's State of the Union answered one big question
+Biden: Neutral (claims a significant outcome, sentiment depends on the question answered)
+FOX - Biden: Biden adviser fires back after president called the 'second coming of FDR' without the results
+Biden: Negative (focuses on criticism of Biden’s effectiveness)
+FOX - Biden: Pro-Palestinian protesters tried to block Biden's path to the Capitol for State of the Union
+Biden: Neutral (reports on an event, neutral towards Biden himself)
+FOX - Biden: Biden caught making joke after State of the Union speech that has critics fuming
+Biden: Negative (focuses on a gaffe or inappropriate comment by Biden)
+FOX - Biden: Biden has already broken at least one record with tonight's State of the Union address
+Biden: Neutral (mentions a record, sentiment depends on the nature of the record)
+FOX - Biden: Pro-Palestinian protesters sought to disrupt Biden's path to Capitol for State of the Union
+Biden: Neutral (similar to the previous, about an event without direct sentiment towards Biden)
+FOX - Biden: Republicans and Democrats share the one thing Biden needs to talk about at SOTU
+Biden: Neutral (suggests a topic of bipartisan interest for Biden)
+FOX - Biden: Biden slams his 2024 rival multiple times during address — without actually naming him
+Biden: Negative (indicates criticism of an unnamed rival)
+FOX - Biden: Alabama Sen. Britt shreds Biden for ‘despicable’ border crisis in Republican rebuttal
+Biden: Negative (repeated headline, strong criticism of Biden’s border policy)
+FOX - Biden: Pro-Palestinian protesters attempt to disrupt Biden's State of the Union address
+Biden: Neutral (reports an attempt to disrupt an event, neutral towards Biden)
+FOX - Biden: Gold Star mom surprises CNN anchor after revealing Biden hasn't reached out to her family
+Biden: Negative (criticizes Biden for lack of communication)
+FOX - Biden: Biden invokes Laken Riley: ‘Innocent young woman who was killed by an illegal — that’s right’
+Biden: Neutral (Biden references a specific case, sentiment depends on the speech content)
+FOX - Biden: Biden mentions Laken Riley after urging from GOP: ‘Young woman who was killed by an illegal’
+Biden: Neutral (similar to previous, reports on Biden mentioning a specific case)
+FOX - Biden: Biden stumbling into critical State of the Union as approval ratings plummet
+Biden: Negative (suggests difficulties for Biden heading into an important speech)
+FOX - Biden: Prices of eggs, milk, steak have gone up since Biden took office
+Biden: Negative (blames Biden for inflation in basic goods)
+FOX - Biden: Biden ripped for video with actors who played presidents giving pointers for State of the Union: 'Pathetic'
+Biden: Negative (criticizes Biden’s preparation for the State of the Union)
+FOX - Biden: Biden, in State of the Union, to call for wealth tax and higher taxes on businesses
+Biden: Neutral (reports on policy proposals, sentiment depends on viewer’s perspective)
+FOX - Biden: Biden planning to tout economic agenda in State of the Union
+Biden: Neutral (focuses on Biden’s plan to highlight his economic policies)
+FOX - Biden: Biden’s food drop in Gaza masks a radical pro-Palestinian agenda
+Biden: Negative (suggests hidden motives in Biden’s actions)
+FOX - Biden: LAURA: In a few hours, the media will be lavishing praise on Biden
+Biden: Neutral (comment on media reaction, sentiment depends on context)
+FOX - Biden: Shoppers punished by soaring prices of eggs, milk as Biden cheers the economy
+Biden: Negative (criticizes Biden’s optimistic economic outlook amid rising prices)
+FOX - Biden: HAPPENING NOW: President Biden delivers high-stakes State of the Union address to the nation
+Biden: Neutral (announcement of an event, neutral sentiment)
+FOX - Biden: How It Started vs. How It's Going: Prices of eggs, milk, steak up since Biden took office
+Biden: Negative (highlights negative economic trends during Biden's tenure)
+FOX - Biden: Christian university says Biden admin probe 'used different standard' after record fine
+Biden: Negative (criticizes Biden administration for perceived unfair treatment)
+FOX - Biden: Biden adviser fires back after president called the 'second coming of FDR'
+Biden: Neutral (defensive response to a comparison, sentiment depends on the context)
+FOX - Biden: Biden gets tips for SOTU speech from Hollywood actors who played presidents
+Biden: Neutral (depicts preparation for a speech, sentiment depends on viewer’s perspective)
+FOX - Biden: Biden regulations, expired tax incentives weigh on manufacturers
+Biden: Negative (criticizes the impact of Biden’s policies on manufacturing)
+FOX - Biden: WATCH LIVE: Biden preps for tonight's critical State of the Union as approval ratings drop
+Biden: Neutral (announcement of live coverage, neutral sentiment)
+FOX - Biden: How Americans could win big on Biden gaffes during tonight's high-stakes State of the Union
+Biden: Negative (focuses on potential errors by Biden)
+FOX - Biden: Ex-Rep. George Santos returns to Capitol Hill for Biden’s State of the Union address
+Biden: Neutral (mentions the presence of a controversial figure, neutral towards Biden)
+FOX - Biden: 'Speech of his life': Here are 3 things Biden did right and 3 things he got wrong
+Biden: Neutral (balanced review of Biden’s performance)
+FOX - Biden: Anchor rattled after Gold Star mom admits Biden hasn't returned message
+Biden: Negative (highlights a negative incident involving Biden)
+FOX - Biden: Andrea Mitchell dismisses own network's polling, makes bold claim about Biden
+Biden: Neutral (focuses on a media personality’s opinion, sentiment towards Biden depends on the claim)
+FOX - Biden: MSNBC's Chris Hayes hits Biden for not laying out second term 'vision': 'I can’t really tell you' what it is
+Biden: Negative (criticizes Biden for lack of clarity)
+FOX - Biden: HOT MIC: Biden caught making joke after SOTU speech that has critics fuming
+Biden: Negative (focuses on a potentially inappropriate comment by Biden)
+FOX - Biden: Man conceived in rape to challenge Dems on abortion at Biden’s SOTU address
+Biden: Neutral (mentions a challenging perspective presented at an event)
+FOX - Biden: Biden's State of the Union speech answered one big question
+Biden: Neutral (claims a significant outcome, sentiment depends on the question answered)
+FOX - Biden: JESSE WATTERS: Biden is probably the worst orator in modern times
+Biden: Negative (strong criticism of Biden’s public speaking skills)
+FOX - Biden: Christian university says Biden admin probe 'used different standard' after $14M fine
+Biden: Negative (repeats criticism of perceived unfair treatment by Biden's administration)
+FOX - Biden: Biden uses term for illegal immigrants during speech that his own admin warned against
+Biden: Negative (highlights a gaffe or controversial term used by Biden)
+FOX - Biden: Bill Maher calls Biden 'selfish' for running in 2024: Dems would win 'without doubt' if he dropped out
+Biden: Negative (criticizes Biden's decision to run for reelection)
+FOX - Biden: Conservatives blast Biden’s State of the Union as ‘nakedly partisan’ campaign speech
+Biden: Negative (depicts Biden’s speech as overly partisan)
+FOX - Biden: Gold Star mom surprises anchor after revealing Biden hasn’t reached out to her family
+Biden: Negative (repeats a negative incident involving Biden)
+FOX - Biden: Anchor writes off her network's polling, makes surprising claim about Biden's election odds
+Biden: Neutral (focuses on a media figure’s opinion, sentiment towards Biden depends on the claim)
+FOX - Biden: Bill Maher calls Biden 'selfish' for running in 2024, says Dems would win if he dropped out
+Biden: Negative (repeats criticism of Biden's decision to run for reelection)
+FOX - Biden: Biden's SOTU just proved his entire presidency is based on one word
+Biden: Neutral (suggests a thematic focus, sentiment depends on the specific word)
+FOX - Biden: Conservative group launches SOTU ad slamming Biden for Laken Riley's death
+Biden: Negative (criticizes Biden in connection with a controversial issue)
+FOX - Biden: LARRY KUDLOW: Under Joe Biden, the American condition looks unhappy
+Biden: Negative (criticizes the state of the nation under Biden's leadership)
+FOX - Biden: Migrant at border wears Biden-Harris shirt, claims not to know who they are
+Biden: Neutral (focuses on a humorous or ironic situation, neutral towards Biden)
+FOX - Biden: Woke Biden official who tried to ban World War II kissing photo has controversial history
+Biden: Neutral (discusses an official’s actions without direct impact on Biden)
+FOX - Biden: WATCH LIVE: All eyes on Biden ahead of tonight's critical State of the Union address
+Biden: Neutral (announcement of an event, neutral sentiment)
+FOX - Biden: 25 states sue over EPA soot pollution rule: 'Biden’s radical green agenda'
+Biden: Negative (frames environmental policy as controversial)
+FOX - Biden: Dems making headlines by voting ‘uncommitted’ over Biden
+Biden: Negative (suggests lack of support within his own party)
+FOX - Biden: Biden mocked over 'pathetic' video of him talking to actors who have played presidents
+Biden: Negative (criticizes Biden for perceived insincerity or silliness)
+FOX - Biden: Jason Palmer, Baltimore investor who defeated Biden in American Samoa, wants to debate
+Biden: Neutral (mentions a political challenge, sentiment depends on context)
+FOX - Biden: House Speaker Johnson explains Biden’s flub at beginning of State of the Union
+Biden: Negative (highlights a mistake made by Biden)
+FOX - Biden: Lawmakers share the one thing Biden needs to talk about Thursday night
+Biden: Neutral (suggests a topic of interest for Biden, neutral until the topic is known)
+FOX - Biden: Biden repeats claim about deficit that has been fact-checked and labeled false
+Biden: Negative (criticizes Biden for repeating a false claim)
+FOX - Biden: Did Biden pass or fail? Former presidential speechwriters grade the State of the Union address
+Biden: Neutral (evaluation of Biden’s performance, sentiment depends on the grades given)
+FOX - Biden: Santos spotted on Capitol Hill for Biden’s address after being ousted from Congress
+Biden: Neutral (mentions the presence of a controversial figure, neutral towards Biden)
+FOX - Biden: Member of Biden’s Cabinet will be taken out of DC tonight as part of Cold War-era tradition
+Biden: Neutral (describes a procedural security measure, neutral towards Biden)
+FOX - Biden: 'Lincoln Riley': Biden ridiculed for appearing to flub slain Georgia student's name
+Biden: Negative (focuses on a verbal mistake by Biden)
+FOX - Biden: Americans can place bets on Biden gaffes, mix-ups and more during address to nation
+Biden: Negative (highlights anticipation of errors by Biden)
+FOX - Biden: SEAN HANNITY: 2024 is a choice between safe and secure borders or Joe Biden's open borders agenda
+Biden: Negative (frames Biden’s immigration policy negatively)
+FOX - Biden: Dems quietly 'nervous' about Biden's performance at State of the Union
+Biden: Negative (suggests concern about Biden’s capabilities)
+FOX - Biden: WATCH: Biden caught on hot mic joking about being ‘cognitively impaired’
+Biden: Negative (highlights a potentially damaging joke made by Biden)
+FOX - Biden: SEAN HANNITY: Biden's State of the Union was a 'DNC political speech'
+Biden: Negative (criticizes Biden for partisanship)
+FOX - Biden: Preview Sen. Britt’s Republican response to Biden’s State of the Union address
+Biden: Neutral (announcement of an upcoming response, neutral towards Biden)
+FOX - Biden: Biden heads into SOTU with dismal approval ratings as he battles 1 major issue that's taken center stage
+Biden: Negative (focuses on low approval ratings and a central challenging issue)
+FOX - Biden: SEAN HANNITY: 'Angry, bitter, screaming' Biden gave 'extreme' campaign speech, Cruz says
+Biden: Negative (portrays Biden's speech in a highly negative light)
+FOX - Biden: WATCH: Illegal migrant at US border explains why he's wearing Biden-Harris shirt
+Biden: Neutral (focuses on an individual’s reason for wearing campaign attire, neutral towards Biden)
+FOX - Biden: In State of the Union speech Biden showed America his entire presidency is based on one word
+Biden: Neutral (suggests a thematic focus, sentiment depends on the specific word)
+FOX - Trump: Federal judge issues ruling on Trump payment in defamation case
+Trump: Neutral (legal update, sentiment depends on the content of the ruling)
+FOX - Trump: Charles Barkley rants about Black people wearing Donald Trump mugshot shirts again: 'Freaking idiot'
+Trump: Neutral (focuses on a public figure’s opinion, neutral towards Trump himself)
+FOX - Trump: CNN panelist hammers MSNBC hosts mocking voters' border concerns: 'In-kind contribution' to Trump
+Trump: Neutral (discusses media bias, neutral towards Trump’s actions)
+FOX - Trump: NBA legend again calls out Black people who wear Trump mugshot merch
+Trump: Neutral (repeats an earlier sentiment, neutral towards Trump)
+FOX - Trump: New York attorney general tells crowd to ‘simmer down’ as Trump chants drown her out at FDNY ceremony
+Trump: Neutral (focuses on a public reaction, neutral towards Trump)
+FOX - Trump: Sunny Hostin wears 'funeral chic' to mourn Trump's Super Tuesday victory: 'So devastated'
+Trump: Neutral (describes a media personality’s reaction, neutral towards Trump)
+FOX - Trump: Trump has suggested a workable and novel way to help Ukraine. Let's consider it
+Trump: Positive (suggests Trump has proposed a beneficial idea)
+FOX - Trump: Unanimous Supreme Court in Trump case tells us this about our legal elites
+Trump: Neutral (legal analysis, sentiment depends on the interpretation)
+FOX - Trump: Jurors in Trump's hush money criminal trial to be anonymous
+Trump: Neutral (focuses on trial procedures, neutral towards Trump’s actions)
+FOX - Trump: Unanimous Supreme Court in Colorado vs. Trump tells us this about our legal elites
+Trump: Neutral (similar to previous, legal analysis)
+FOX - Trump: DeSantis criticizes Haley for not endorsing Trump: 'You signed the pledge'
+Trump: Neutral (political dynamics, neutral towards Trump)
+FOX - Trump: Liberal pundits refuse to accept polling showing Trump attracting Black vote
+Trump: Neutral (discusses media reaction to polling, neutral towards Trump)
+FOX - Trump: Senate GOP candidate blasted for alleged scheduled meeting with anti-Trump group
+Trump: Neutral (focuses on political controversy, neutral towards Trump)
+FOX - Trump: LAURA INGRAHAM: The Trump slayers have fallen by the wayside
+Trump: Positive (suggests Trump has outlasted his critics)
+FOX - Trump: Federal judge issues ruling on Trump payment in defamation case against E. Jean Carroll
+Trump: Neutral (repeats an earlier headline, legal update)
+FOX - Trump: Ohio GOP Sen candidate blasted for alleged scheduled meeting with anti-Trump group
+Trump: Neutral (similar to previous, focuses on political controversy)
+FOX - Trump: Fani Willis' removal would not end Trump's Georgia prosecution, Trey Gowdy warns
+Trump: Neutral (focuses on legal proceedings, neutral towards Trump)
+FOX - Trump: New York AG scolds crowd as Trump chants drown her out at FDNY ceremony
+Trump: Neutral (similar to previous, public reaction at an event)
+FOX - Trump: HUGH HEWITT: Trump's legal cases could help him return to the White House
+Trump: Positive (suggests legal challenges could benefit Trump politically)
+NBC - Biden: Gaza aid not a 'bargaining chip,' Biden warns Israel as he unveils plan for temporary port
+Biden: Positive (portrays Biden taking a firm diplomatic stance and emphasizing humanitarian aid)
+NBC - Biden: Biden turns the State of the Union into a fiery campaign stump speech: From the Politics Desk
+Biden: Positive (suggests Biden delivered a vigorous and compelling speech)
+NBC - Biden: State of the Union 2024 live updates: Biden will vow to restore abortion rights and promote democracy
+Biden: Positive (highlights Biden's commitment to key issues like abortion rights and democracy)
+NBC - Biden: Biden turns the State of the Union into a spirited campaign stump speech: From the Politics Desk
+Biden: Positive (similar to a previous headline, emphasizes an energetic presentation)
+NBC - Biden: Biden touts falling inflation rates, rising wages and job growth
+Biden: Positive (presents Biden positively by highlighting economic improvements)
+NBC - Biden: Biden to announce more direct assistance in Gaza as he lays out second-term vision in State of the Union
+Biden: Positive (focuses on foreign aid and strategic vision for a second term)
+NBC - Biden: Biden to announce U.S.-led mission to establish a port for aid on Gaza's coast
+Biden: Positive (depicts Biden as proactive in international humanitarian efforts)
+NBC - Biden: Biden's big entrance: All 9 minutes of the president greeting people
+Biden: Neutral (describes a moment of interaction, sentiment depends on viewer perspective)
+NBC - Biden: State of the Union 2024 live updates: Biden to announce a new Gaza port for aid in tonight's speech
+Biden: Positive (reiterates Biden's commitment to assisting Gaza, highlighting a specific initiative)
+NBC - Biden: Gaza aid not a 'bargaining chip,' Biden warns Israel as U.S. and allies launch maritime corridor
+Biden: Positive (similar to an earlier headline, emphasizes Biden's diplomatic and humanitarian stance)
+NBC - Biden: State of the Union 2024 live updates: Biden will vow to restore abortion rights, promote democracy
+Biden: Positive (reaffirms Biden's commitment to significant societal issues)
+NBC - Biden: State of the Union 2024 live updates: Biden to announce Gaza port construction in address to Congress tonight
+Biden: Positive (focuses on a specific foreign aid initiative, portraying Biden in a proactive role)
+NBC - Biden: State of the Union live updates: President Joe Biden to address Congress tonight
+Biden: Neutral (an announcement of the event, neutral sentiment)
+NBC - Biden: Graphic: Tracking Biden’s topics at the State of the Union
+Biden: Neutral (informational, providing a breakdown of topics discussed)
+NBC - Biden: Biden's State of the Union and bill threatening to ban TikTok advances: Morning Rundown
+Biden: Neutral (mentions Biden's speech alongside a legislative development, sentiment split depending on the content)
+NBC - Biden: What to expect from Biden's election-year State of the Union
+Biden: Neutral (preview of the speech, sentiment depends on expectations outlined)
+NBC - Biden: Biden stares down questions about his age and fitness for office with spirited speech
+Biden: Positive (suggests Biden effectively addressed concerns about his capabilities)
+NBC - Biden: Biden banters with GOP hecklers over proposed cuts to Social Security
+Biden: Positive (depicts Biden engaging confidently with opposition)
+NBC - Biden: State of the Union 2024 live updates: Biden will vow to restore Roe v. Wade abortion rights
+Biden: Positive (highlights Biden’s advocacy for restoring abortion rights)
+NBC - Biden: Five key takeaways from Biden's final State of the Union before the 2024 election
+Biden: Neutral (the sentiment will depend on the content of the takeaways)
+NBC - Biden: Biden admonishes the Supreme Court for overturning Roe v. Wade
+Biden: Positive (shows Biden taking a strong stance on a contentious issue)
+NBC - Biden: Democrats invite women affected by abortion and IVF rulings to Biden’s State of the Union
+Biden: Positive (illustrates support and solidarity with women affected by significant court rulings)
+NBC - Biden: Biden to focus on 'freedom' in State of the Union — a central theme of his re-election campaign
+Biden: Positive (emphasizes a major thematic element in Biden's campaign)
+NBC - Biden: Biden to announce U.S. will construct port in Gaza in State of the Union
+Biden: Positive (repeats the announcement of a significant foreign aid initiative)
+NBC - Biden: State of the Union 2024 live updates: Biden to announce Gaza port construction in speech to Congress tonight
+Biden: Positive (another mention of the Gaza port initiative, consistent positive portrayal)
+NBC - Biden: Biden portrays nation on the upswing in energized State of the Union
+Biden: Positive (suggests an optimistic and dynamic presentation by Biden)
+NBC - Biden: Biden to address economy, abortion and Gaza as he makes case for second term
+Biden: Positive (highlights Biden addressing key issues as part of his re-election campaign)
+NBC - Biden: State of the Union live updates: Biden to announce Gaza port construction in address to Congress tonight
+Biden: Positive (consistent emphasis on a specific foreign policy initiative)
+NBC - Biden: Biden makes a pitch to working families and promises to protect safety net
+Biden: Positive (focuses on Biden's outreach to families and commitment to social programs)
+NBC - Biden: Biden delivers a high-stakes address as he makes his case for a second term
+Biden: Neutral (describes the importance of the speech, sentiment depends on the speech's reception)
+NBC - Biden: Biden to focus on 'freedom' — a central theme of his re-election campaign
+Biden: Positive (highlights a central campaign theme, suggesting a strategic focus)
+NBC - Biden: Why Biden is making ‘freedom’ a central campaign focus: From the Politics Desk
+Biden: Neutral (analytical piece on campaign strategy, sentiment depends on analysis)
+NBC - Biden: Biden turns on charm and confronts GOP hecklers; Sen. Katie Britt delivers intense response
+Biden: Positive (depicts Biden as charismatic and confrontational in a positive light)
+NBC - Biden: House Republicans set date for public testimony from Hunter Biden
+Biden: Neutral (announcement of a scheduled testimony, neutral toward President Biden)
+NBC - Biden: 'A clarion call': Democratic donors sound the alarm to Biden about strength of 'uncommitted'
+Biden: Negative (suggests concern among donors about Biden's campaign strength)
+NBC - Biden: Biden to begin laying out second-term vision in State of the Union
+Biden: Positive (highlights a forward-looking perspective from Biden)
+NBC - Biden: Democrats invite women impacted by abortion and IVF rulings to Biden’s State of the Union
+Biden: Positive (reiterates support for women affected by significant rulings)
+NBC - Biden: State of the Union 2024 live updates: Biden to announce a new Gaza port for aid in speech tonight
+Biden: Positive (reaffirms the announcement of a significant foreign aid initiative)
+NBC - Trump: Trump to get intelligence briefings despite classified documents criminal trial
+Trump: Neutral (reports on Trump receiving briefings, sentiment depends on viewer perspective)
+NBC - Trump: Judge denies Trump's request for more time to pay damages in Carroll defamation case
+Trump: Negative (highlights a legal setback for Trump)
+NBC - Trump: Trump co-defendant's lawyer presents argument for disqualifying Fani Willis to Georgia state senators
+Trump: Neutral (focuses on legal strategy, neutral towards Trump's personal actions)
+NBC - Trump: Judge restricts access to jurors’ identities in Trump hush money trial
+Trump: Neutral (concerns courtroom procedure, neutral towards Trump)
+NBC - Trump: Trump allies on the Republican National Committee want to help pay his legal bills
+Trump: Neutral (describes support from allies, sentiment neutral towards Trump's actions)
+NBC - Trump: ‘Done deal’: Allies say Trump aide Brian Jack would be favorite in Georgia congressional race
+Trump: Neutral (political speculation about an ally, indirectly related to Trump)
+NBC - Trump: Trump's legal cases could help him return to the White House
+Trump: Positive (suggests legal challenges could bolster Trump's political position)
