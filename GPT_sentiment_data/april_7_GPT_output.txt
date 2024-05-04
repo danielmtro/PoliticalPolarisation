@@ -1,0 +1,76 @@
+CNN - Biden: Israeli journalist on what ‘scared’ Netanyahu to act after talk with Biden
+Biden: Neutral (Discusses Netanyahu's reaction to a conversation with Biden, focusing on international relations.)
+CNN - Trump: Trump Media stock sinks to post-merger low
+Trump: Negative (Indicates poor performance of Trump Media, reflecting negatively on Trump-associated businesses.)
+CNN - Trump: Breaking down Trump’s attacks on the daughter of the judge in his New York hush-money trial
+Trump: Negative (Highlights Trump's controversial actions during his legal troubles.)
+CNN - Trump: Republican strategist says Trump has made a critical mistake in the campaign
+Trump: Negative (Suggests strategic errors in Trump’s campaign approach.)
+CNN - Trump: Hear Trump explain away Melania’s absence from the campaign trail
+Trump: Neutral (Trump addressing personal campaign details, neutral in sentiment without additional context.)
+FOX - Biden: Families of American hostages in Gaza urge Biden to act after 6 months of conflict: 'Don't have time' to wait
+Biden: Negative (Pressures Biden to take faster action, implies inaction or delay.)
+FOX - Biden: Biden campaign announces huge fundraising haul
+Biden: Positive (Highlights successful fundraising, suggesting campaign strength.)
+FOX - Biden: Biden admin reportedly set to defy Supreme Court in bid to win over voters before election
+Biden: Negative (Suggests willful disregard for legal norms to gain electoral advantage.)
+FOX - Biden: Major news outlet ripped for saying Biden has 'clamped down' on border crossings
+Biden: Negative (Criticizes media portrayal of Biden’s border policies, implying they are misrepresented.)
+FOX - Biden: Inside Biden’s controversial history of claiming to be member of many ethnic groups
+Biden: Negative (Focuses on controversies around Biden's past statements regarding his ethnicity.)
+FOX - Biden: 11 ways Biden and his handlers are hell-bent on destroying America
+Biden: Negative (Strongly criticizes Biden's policies as detrimental to the country.)
+FOX - Biden: Social media puzzled by USA Today’s claim about Biden action at border
+Biden: Neutral (Questions media accuracy on reporting Biden’s border actions.)
+FOX - Biden: SEAN HANNITY: Biden looks like he's 'trying to buy votes with your money'
+Biden: Negative (Accuses Biden of using public funds for personal political gain.)
+FOX - Biden: Biden raises more than $90 million in March, over $187 million in first quarter of 2024
+Biden: Positive (Shows robust fundraising, indicative of strong financial support.)
+FOX - Biden: LAURA INGRAHAM: The media praises Biden's economy as many new jobs go to non-Americans
+Biden: Negative (Criticizes the media’s portrayal of the economy under Biden, implying negative consequences of his policies.)
+FOX - Biden: Truckers challenge Biden administration over climate crackdown on electric big rigs
+Biden: Negative (Depicts resistance to Biden’s environmental policies.)
+FOX - Biden: Biden's energy ban brings major job-creating project to screeching halt
+Biden: Negative (Implies Biden’s policies have harmful economic effects.)
+FOX - Biden: ‘Biden-opoulos’ comment is latest in pattern of president’s controversial ethnicity claims
+Biden: Negative (Continues the theme of controversy over Biden's remarks about his ethnicity.)
+FOX - Biden: Pressure builds on Biden to act 'now' on Americans held hostage by Hamas
+Biden: Negative (Implies urgency and necessary action required from Biden.)
+FOX - Biden: In upcoming meeting with Biden, Japan's Kishida looks to bolster US defense ties
+Biden: Neutral (Focuses on international relations without a direct sentiment on Biden’s actions.)
+FOX - Trump: Trump raises more than $50 million at fundraiser, smashing records for a candidate
+Trump: Positive (Emphasizes Trump’s significant fundraising success.)
+FOX - Trump: Christian leaders react to Trump's 'God Bless the USA' Bibles
+Trump: Neutral (Depicts religious community engagement with Trump-themed merchandise.)
+FOX - Trump: Sitcom star claims 'White people,' Trump are going to punish minorities after election
+Trump: Negative (Suggests accusations against Trump of potential discriminatory actions.)
+FOX - Trump: Kid Rock defends Trump's music taste after media backlash
+Trump: Positive (Shows support for Trump against media criticism.)
+FOX - Trump: Christian leaders react to Trump's 'God Bless the USA' bibles: 'More Trump than Bible?'
+Trump: Neutral (Reflects on the blending of Trump’s image with religious symbolism.)
+FOX - Trump: Kid Rock defends Trump's music taste as 'freakin' the best' after media backlash
+Trump: Positive (Continued support for Trump in light of criticism.)
+FOX - Trump: Trump expected to rake in eye-popping figure at fundraiser, completely smashing records
+Trump: Positive (Further emphasizes Trump’s fundraising prowess.)
+NBC - Biden: Turning point? After deadly strike on aid convoy, Democrats push Biden to put conditions on military help for Israel
+Biden: Negative (Implies pressure on Biden to modify foreign policy, showing potential discontent within his own party.)
+NBC - Biden: Biden may have trouble getting on Ohio’s general election ballot, state’s top election official warns
+Biden: Negative (Suggests administrative or legal challenges that could impact Biden’s campaign.)
+NBC - Biden: Biden and Democratic Party apparatus raised $90 million in March
+Biden: Positive (Highlights successful fundraising, indicative of strong support.)
+NBC - Biden: Judge berates Justice Department for defying House GOP subpoenas tied to Biden impeachment inquiry
+Biden: Negative (Reflects poorly on Biden's administration, suggesting issues of compliance and transparency.)
+NBC - Biden: Biden officials worry Iran might hit targets inside Israel as payback for killing general
+Biden: Neutral (Focuses on geopolitical concerns and potential repercussions of foreign policy decisions.)
+NBC - Trump: Trump lawyers continue to press for delay in classified documents case
+Trump: Neutral (Legal strategy to delay proceedings, neutral in terms of sentiment.)
+NBC - Trump: Democratic congressmen unveil bill to rename a federal prison after Trump
+Trump: Negative (Clearly negative, mocking or criticizing Trump through symbolic legislation.)
+NBC - Trump: These are the violent Jan. 6 rioters that Donald Trump calls 'hostages'
+Trump: Negative (Criticizes Trump’s characterization of Jan. 6 rioters, framing it as misleading.)
+NBC - Trump: Hush money judge denies Trump 'fishing expedition' to subpoena info on Stormy Daniels documentary
+Trump: Negative (Indicates legal setbacks for Trump, highlighting unsuccessful legal maneuvers.)
+NBC - Trump: Want Trump sneakers? Just raise $2.5 million for the former president
+Trump: Neutral (Details a fundraising initiative involving Trump, neutral unless context of usage or sentiment implied.)
+NBC - Trump: The truth about the Jan. 6 rioters that Donald Trump calls 'hostages'
+Trump: Negative (Reiterates criticism of Trump’s portrayal of Jan. 6 events, aiming to correct the record.)

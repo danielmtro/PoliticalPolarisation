@@ -1,0 +1,140 @@
+CNN - Biden: Biden and Harris team up for a rare joint appearance in North Carolina to take on GOP over health care
+Biden: Neutral (joint appearance, focus on action rather than evaluation)
+CNN - Biden: RFK Jr.’s VP pick is a missile aimed at Biden
+Biden: Negative (suggests opposition or threat)
+CNN - Biden: Apple customers love Apple. The Biden administration thinks they could do better
+Biden: Neutral (suggests potential for improvement, not a direct critique)
+CNN - Trump: Takeaways from Trump’s wild day in court
+Trump: Negative (implies chaos or trouble)
+CNN - Trump: Late night shows react to Trump’s legal woes
+Trump: Negative (focus on problems)
+CNN - Trump: Trump tells ‘mind-bogglingly nonsensical’ story about the New York Stock Exchange
+Trump: Negative (criticism of coherence)
+CNN - Trump: NY judge issues gag order on Trump in hush money trial
+Trump: Negative (legal restriction, negative implication)
+CNN - Trump: Haberman reveals what Trump’s aides are saying privately about hush money case
+Trump: Neutral (depends on the aides' statements)
+CNN - Trump: Former Trump campaign official subpoenaed in Arizona probe of efforts to overturn 2020 election
+Trump: Negative (legal trouble, negative implication)
+CNN - Trump: Trump’s DJT stock creates a unique new ethical nightmare
+Trump: Negative (ethical concerns)
+CNN - Trump: Trump’s Truth Social is now a public company. Experts warn its multibillion-dollar valuation defies logic
+Trump: Negative (skeptical expert opinion)
+CNN - Trump: Trump is just 3 weeks from becoming the first ex-president to go on trial
+Trump: Negative (focus on impending trial)
+FOX - Biden: Biden's DEI mandates on employers fail American workers
+Biden: Negative (suggests failure and negative impact)
+FOX - Biden: Fishing industry sounds alarm over Biden's destructive energy agenda
+Biden: Negative (use of 'destructive' implies harm)
+FOX - Biden: GOP senator blasts Biden admin's claims about abortion travel policy
+Biden: Negative (criticism from opposition)
+FOX - Biden: Biden concedes to pro-Palestinian protesters after multiple interruptions
+Biden: Neutral (focus on reaction to events)
+FOX - Biden: Biden says US government should fund rebuilding of collapsed bridge
+Biden: Neutral (policy proposal, not evaluative)
+FOX - Biden: Legal experts raise alarm on President Biden's 'plan B' student loan handout
+Biden: Negative (use of 'alarm' suggests concern)
+FOX -  Biden: Biden admin locks $6B in climate funding behind DEI, inclusivity requirements
+Biden: Neutral (policy detail, not directly evaluative)
+FOX - Biden: Fmr Navy SEAL rips Biden’s Afghanistan withdrawal after Mark Milley grilled on Capitol Hill: ‘Abject failure’
+Biden: Negative (severe criticism of actions)
+FOX - Biden: Comer dampens prospects of Biden impeachment in new fundraising email
+Biden: Neutral (political maneuvering, not a direct sentiment about Biden)
+FOX -  Biden: SEAN HANNITY: Biden made the Baltimore bridge collapse all about himself
+Biden: Negative (criticism of self-centeredness)
+FOX - Biden: Dem campaign call reveals panic mode over RFK Jr.'s White House bid, scramble to save Biden re-election hopes
+Biden: Negative (indicates desperation or concern within the campaign)
+FOX - Biden: Critics charge Biden with abandoning Israel as tensions with Jewish state grow
+Biden: Negative (accusation of neglect in foreign policy)
+FOX - Biden: 'Moderate' senator in battleground state voted with Biden almost 100% of the time: 'Can't run from his record'
+Biden: Neutral (focus on senator’s record, implicitly supportive of Biden's policies)
+FOX - Biden: WATCH LIVE: President Biden, VP Harris to deliver remarks on economy, healthcare
+Biden: Neutral (announcement of an event, no sentiment expressed)
+FOX - Biden: 'Moderate' senator's Biden history at odds with Democrat's narrative
+Biden: Neutral (discussion of alignment, not clearly positive or negative)
+FOX - Biden: WATCH LIVE: Biden vows to help rebuild collapsed bridge, RFK Jr. announces VP pick
+Biden: Neutral (commitment to infrastructure, neutral sentiment)
+FOX - Biden: Critics charge Biden with abandoning Israel, hostages amid growing tensions with Jewish state
+Biden: Negative (reiteration of negative foreign policy criticism)
+FOX - Biden: Third parties are like 'cockroaches in the kitchen,' former Clinton adviser says: 'Foul it up' for Biden
+Biden: Negative (negative metaphor suggesting complications for Biden)
+FOX - Biden: Should Biden pay Mexican president's $20B immigration demand? Americans weigh in
+Biden: Neutral (question posed, sentiment depends on public reaction)
+FOX - Biden: What pawn shops know about the economy that Biden doesn’t
+Biden: Negative (suggests lack of knowledge or awareness)
+FOX - Biden: Should Biden pay the Mexican president's $20 billion demand or get tougher on immigration? Americans weigh in
+Biden: Neutral (similar to previous, focusing on a question to the public)
+FOX - Biden: Whale of a lawsuit threatens to swallow up Biden green energy agenda
+Biden: Negative (metaphor suggests major challenges to policies)
+FOX - Biden: Dems in a panic over RFK Jr.'s WH run, scramble to save Biden re-election bid: phone call
+Biden: Negative (indicates campaign troubles)
+FOX - Biden: Biden adviser's home targeted with manure, prompting bomb-squad call
+Biden: Negative (negative incident, although indirectly related to Biden himself)
+FOX - Biden: Biden claims he commuted 'many times' by train or car on vehicle-only bridge
+Biden: Negative (implies potential falsehood or error in statement)
+FOX - Trump: Trump backs new endeavor, endorses selling Bibles with country musician
+Trump: Neutral (endorsement of a product, not directly evaluative)
+FOX - Trump: Trump endorses, sells Bibles with country musician: 'We must make America pray again'
+Trump: Neutral (same as above, promotional in nature)
+FOX - Trump: First ever Bibles endorsed by Trump go up for sale: 'We must make America pray again'
+Trump: Neutral (continuation of promotional activity)
+FOX - Trump: New York judge imposes gag order on Trump in Bragg hush money case
+Trump: Negative (legal restriction, negative implication)
+FOX - Trump: Why MSNBC doesn’t want Ronna McDaniel–or Donald Trump–on its airwaves
+Trump: Neutral (focuses on media's decision, no direct sentiment about Trump)
+FOX - Trump: LAURA INGRAHAM: They're trying to put Trump behind bars and or bankrupt him before the election
+Trump: Negative (implies targeting and unfair treatment)
+FOX - Trump: Trump Media shares surge in market debut
+Trump: Positive (positive news about his business)
+FOX - Trump: Trump bond break could foreshadow favorable treatment by appeals court
+Trump: Positive (speculation of positive legal outcome)
+FOX - Trump: HOWARD KURTZ: How the media downplayed Trump’s major victory
+Trump: Positive (criticism of media, suggests an underreported triumph)
+FOX - Trump: Celebrities read Trump indictments on MSNBC: 'Channeling Jack Smith'
+Trump: Neutral (describes an event, sentiment dependent on content)
+FOX - Trump: Trump tells Israel to 'finish up' Gaza offensive because nation is 'losing a lot of support'
+Trump: Negative (involvement in contentious foreign policy, possibly controversial statement)
+FOX - Trump: Donald Trump is selling $60 'God Bless the USA' Bibles ahead of Easter
+Trump: Neutral (promotional, focuses on product sale)
+FOX - Trump: LARRY KUDLOW: Trump stands tall today
+Trump: Positive (praise of Trump's stance or actions)
+FOX - Trump: Legal experts break down why Trump's whopping fee could be against the law
+Trump: Negative (suggests legal issues or potential wrongdoing)
+FOX - Trump: How the media downplayed Trump’s major victory on the massive bond but played up his New York trial date
+Trump: Mixed (claims of a victory contrasted with focus on negative aspects)
+FOX - Trump: SEAN HANNITY: Trump scored a ‘major’ legal victory out of New York
+Trump: Positive (clearly positive, highlighting a legal victory)
+FOX - Trump: Trump lawyer taunts Letitia James after appeals court slashes NYC bond payment
+Trump: Positive (depicts a favorable legal development)
+FOX - Trump: NY courts thrashed over Trump cases: 'Guilty of running for president'
+Trump: Negative (criticism of the legal system's treatment of Trump)
+FOX - Trump: 'The View' co-host admits judge slashing Trump's bond was 'very appropriate'
+Trump: Positive (acknowledgment of a fair legal decision)
+FOX - Trump: Letitia James had to 'eat every single tweet' after appeals court slashed Trump's bond, says Alina Habba
+Trump: Positive (depicts victory over a political adversary)
+NBC - Biden: Biden reacts to pro-Palestinian protesters: 'They have a point'
+Biden: Neutral (acknowledges protesters’ views, sentiment depends on content of views)
+NBC - Biden: Biden says Baltimore bridge rebuild should be paid for by the federal government after collapse
+Biden: Neutral (policy statement, not inherently positive or negative)
+NBC - Biden: China to challenge Biden’s electric vehicle plans at the WTO
+Biden: Negative (suggests conflict and opposition to Biden’s policies)
+NBC - Biden: Biden says he wants federal government to pay for rebuilding of Baltimore bridge after cargo ship crash
+Biden: Neutral (similar to the previous headline, focuses on infrastructure policy)
+NBC - Trump: Trump is selling $60 Bibles with ‘God Bless the U.S.A.’ singer Lee Greenwood
+Trump: Neutral (promotional activity, similar to earlier headlines)
+NBC - Trump: Lara Trump on 2020 election: 'That’s in the past'
+Trump: Neutral (statement about moving past an event)
+NBC - Trump: 6 presumed dead in Baltimore bridge collapse and Lara Trump interview: Morning Rundown
+Trump: Neutral (news roundup, sentiment not focused on Trump)
+NBC - Trump: Trump says he might spend his money on his presidential campaign
+Trump: Neutral (statement of potential personal campaign financing)
+NBC - Trump: Trump's media stock will start trading Tuesday. Here's what to know.
+Trump: Neutral (informational about stock trading)
+NBC - Trump: What you missed: 5 key moments from Trump's Monday in court for hush money case
+Trump: Neutral (recap of events, sentiment depends on content)
+NBC - Trump: Takeaways from Trump's roller-coaster day in court: From the Politics Desk
+Trump: Negative (description of instability, negative implication)
+NBC - Trump: Trump social media stock surges in first day of trading
+Trump: Positive (positive financial news)
+NBC - Trump: Judge in hush money case hits Trump with partial gag order
+Trump: Negative (legal restriction, negative implication)
