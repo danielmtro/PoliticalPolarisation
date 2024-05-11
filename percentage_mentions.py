@@ -46,24 +46,9 @@ def get_headline_percentages(media_org: str, start_date: datetime.date, end_date
 
 
 start_date = datetime.date(2024, 3, 4)
-end_date = datetime.date(2024, 3, 25)
+end_date = datetime.date(2024, 4, 25)
 
 CNN_df = get_headline_percentages('CNN', start_date, end_date)
 FOX_df = get_headline_percentages('FOX', start_date, end_date)
 #ABC_US_df = get_headline_percentages('abcus', start_date, end_date)
 #NBC_df = get_headline_percentages('nbc', start_date, end_date)
-
-
-plt.plot(CNN_df['Date'], CNN_df['Total'], label='CNN Total')
-plt.plot(FOX_df['Date'], FOX_df['Total'], label='FOX Total')
-#plt.plot(ABC_US_df['Date'], ABC_US_df['Total'], label='ABC US Total')
-#plt.plot(NBC_df['Date'], NBC_df['Total'], label='NBC Total')
-
-plt.title('Percentage of Mentions of Trump and Biden in Total Articles for FOX and CNN')
-plt.xlabel('Date')
-plt.ylabel('Percentage of Mentions')
-
-plt.legend()
-plt.grid(True)
-
-plt.show()
