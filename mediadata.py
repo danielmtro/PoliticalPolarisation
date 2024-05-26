@@ -208,6 +208,10 @@ def get_accumulated_headlines(start_date: datetime.date, end_date: datetime.date
                 pass
 
             current += datetime.timedelta(1)
+
+    if len(headlines) == 0:
+        return pd.DataFrame()
+    
     return pd.concat(headlines)
 
 
