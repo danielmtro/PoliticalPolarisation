@@ -1,0 +1,6 @@
+GPT Prompt:
+
+Here are headlines about Trump and Biden by CNN, NBC and FOX. I want you to tell me what you think the sentiment is towards the appropriate candidate in the headline. Tell me whether it is positive, negative or neutral sentiment for Trump and Biden. Do this line by line for the document, printing the headline and the sentiment you deemed it to be. Print output like: CNN - Biden: Fictional presidents offer Biden advice for his big speech
+Biden: Neutral (creative concept, no direct sentiment toward Biden's actions)
+CNN - Biden: See Biden’s reaction to fictional presidents’ advice
+Biden: Neutral
