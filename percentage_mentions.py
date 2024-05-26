@@ -1,5 +1,7 @@
 import matplotlib.pyplot as plt
 import pandas as pd
+from typing import List
+from collections import defaultdict
 import datetime
 from mediadata import get_headline_df, get_biden_trump_dataframes
 
@@ -45,25 +47,30 @@ def get_headline_percentages(media_org: str, start_date: datetime.date, end_date
     return df
 
 
-start_date = datetime.date(2024, 3, 4)
-end_date = datetime.date(2024, 3, 25)
 
-CNN_df = get_headline_percentages('CNN', start_date, end_date)
-FOX_df = get_headline_percentages('FOX', start_date, end_date)
-#ABC_US_df = get_headline_percentages('abcus', start_date, end_date)
-#NBC_df = get_headline_percentages('nbc', start_date, end_date)
+def get_headline_percentages(media_orgs: List[str], start_date: datetime.date, end_date: datetime.date) -> pd.DataFrame:
 
 
-plt.plot(CNN_df['Date'], CNN_df['Total'], label='CNN Total')
-plt.plot(FOX_df['Date'], FOX_df['Total'], label='FOX Total')
-#plt.plot(ABC_US_df['Date'], ABC_US_df['Total'], label='ABC US Total')
-#plt.plot(NBC_df['Date'], NBC_df['Total'], label='NBC Total')
+    output = defaultdict(list)
+    current_date = start_date 
+    while current_date <= end_date:
 
-plt.title('Percentage of Mentions of Trump and Biden in Total Articles for FOX and CNN')
-plt.xlabel('Date')
-plt.ylabel('Percentage of Mentions')
+        try: 
 
-plt.legend()
-plt.grid(True)
+            for media_org in media_orgs:
+                df = get_headline_df(media_org, current_date)
 
-plt.show()
+                num_political = len([1 for i in df['Headline'] if ('biden' in i.lower() or 'trump' in i.lower())])
+                percentage= num_political/len(df)
+                output[media_org].append(percentage)
+
+            output['Date'].append(pd.to_datetime(current_date))
+            current_date += datetime.timedelta(days=1)
+
+
+        except:
+            current_date += datetime.timedelta(days=1)
+            continue
+    
+    return pd.DataFrame(output).set_index('Date')
+
